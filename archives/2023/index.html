@@ -1787,7 +1787,7 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
     debug: "env",
     cdn: {"js":{"app":"/js/app.js","parallax":"/js/plugins/parallax.js","rightMenu":"/js/plugins/rightMenu.js","rightMenus":"/js/plugins/rightMenus.js","sites":"/js/plugins/tags/sites.js","friends":"/js/plugins/tags/friends.js","contributors":"/js/plugins/tags/contributors.js","search":"/js/search/hexo.js"},"css":{"style":"/css/style.css"}},
     default: {"avatar":"https://unpkg.com/volantis-static@0.0.1654736714924/media/placeholder/avatar/round/3442075.svg","link":"https://unpkg.com/volantis-static@0.0.1654736714924/media/placeholder/link/8f277b4ee0ecd.svg","cover":"https://unpkg.com/volantis-static@0.0.1654736714924/media/placeholder/cover/76b86c0226ffd.svg","image":"https://unpkg.com/volantis-static@0.0.1654736714924/media/placeholder/image/2659360.svg"},
-    lastupdate: new Date(1683628236171),
+    lastupdate: new Date(1683653392212),
     sidebar: {
       for_page: ["blogger","category","tagcloud","donate"],
       for_post: ["toc"],
@@ -2582,10 +2582,11 @@ if (/*@cc_on!@*/false || (!!window.MSInputMethodContext && !!document.documentMo
         
 很久之前写过陌生人系列，现在打算继续写。
  
+ 
 
 去年九月底，我住在柏林的青旅。一天，我刚抱着电脑走进休息区，一个黑人开口问我是不是中国人。我愣了一下，因为没想到在这里听到普通话，且还是一个人外国人说出来的。
 原来他在中国待了七年，刚从重庆过来。还没到入住时间，他便在这里等着。他手机没电了，问我有没有转换头。我借给了他，知道他还没租到房子，就把他拉进了几个微信群。
-有天晚上火警响了，我们坐在...
+有天晚上火警响了，我们...
       
     
   </div>
@@ -3456,7 +3457,7 @@ window.matchMedia('(prefers-color-scheme: light)').addListener(darkModelListener
   function pjax_giscus() {
     const HEAD = check_giscus();
     if (!HEAD) return;
-    let cfg = Object.assign({"theme":{"light":"light","dark":"dark"},"repo":"kiwylai/comments","repo-id":"R_kgDOJLjg1Q","category":"Announcements","category-id":"DIC_kwDOJLjg1c4CU-vG","mapping":"pathname","reactions-enabled":"1","emit-metadata":"0","lang":"zh-CN"},pdata.commentConfig)
+    let cfg = Object.assign({"theme":{"light":"light","dark":"dark"},"enable":true,"repo":"kiwylai/comments","repo-id":"R_kgDOJLjg1Q","category":"Announcements","category-id":"DIC_kwDOJLjg1c4CU-vG","mapping":"pathname","reactions-enabled":"1","emit-metadata":"0","lang":"zh-CN"},pdata.commentConfig)
     const script = document.createElement('script');
     script.setAttribute('src', 'https://giscus.app/client.js');
     Object.keys(cfg).forEach(k=>{
