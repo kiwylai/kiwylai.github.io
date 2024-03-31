@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-03-24T09:22:33.141Z</updated>
+  <updated>2024-03-31T09:16:48.881Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>世界上那么多人，换一个就行了</title>
+    <link href="http://example.com/2024/03/31/%E4%B8%96%E7%95%8C%E4%B8%8A%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA%EF%BC%8C%E6%8D%A2%E4%B8%80%E4%B8%AA%E5%B0%B1%E8%A1%8C%E4%BA%86/"/>
+    <id>http://example.com/2024/03/31/%E4%B8%96%E7%95%8C%E4%B8%8A%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA%EF%BC%8C%E6%8D%A2%E4%B8%80%E4%B8%AA%E5%B0%B1%E8%A1%8C%E4%BA%86/</id>
+    <published>2024-03-31T09:14:14.000Z</published>
+    <updated>2024-03-31T09:16:48.881Z</updated>
+    
+    <content type="html"><![CDATA[<p>一月学习状态十分差，到了二月觉得再这样下去，找到一份码农工作十分渺茫。想起在看到网友推荐过一个免费找导师的网站，我想着看看能不能找到人指点一下我的学习路径。</p><p>上面 front-end 的导师不算很多，坐标德国的女性更少，于是我只能开始找男导师。第一个男导师是德国人，在我写了介绍之后，他马上在后台给我回答了一个问题。然后说他有好方法可以教我学德语，他在前妻（台湾人，会说普通话和英语）身上试验过。</p><p>我看到他这样说有点期待，同时有点奇怪：既然你有好方法，你也回复我了，那你可以在这里把方法说清楚的嘛。但是我当时觉得他可能有他的想法，我们也还没见，就等见了面再说吧。</p><p>见面的时候，他说不会德语找工作确实有点麻烦，A1 是真不够，最起码得假装有 A2 吧（但是之前见的印度导师说 B1 也不够）。他可以带我练练德语，再帮我细化学 JS 的计划。</p><p>他查了一些实习的薪资，说很低，这个应该申请不了工签。我也不清楚工签薪资要求，去查了一下。华人论坛里有人提到看行业，如果低于行业标准水平，可能会被卡。而且最好是工业或商业。忽然觉得，可能我找份超市收银员的活，未必能换到工签。</p><p>因为我申请的是一小时面谈，但是我们超时了。结束前，这个男的最后问我，“just curious，你为什么会剪这么短的头发？”我：因为方便啊。他：我只是好奇，因为很少见女生剪这样的发型。我当时就觉得很奇怪，你们德国人不是很多男的都爱留长头发吗？各种奇怪打扮都有吧，你为何好奇我的头发呢？但是我对他还是没上面戒备心，又见他之前说得那么好，就和他说我这个发型在亚洲女性里确实比较少见。然后说了这样的发型容易受到什么歧视，所以我才更想留在德国。</p><p>结束之后，他给我一个第二天半小时的 session，说带我练习德语；还建立了只有我们可见的 GitHub repository。</p><p>第二天，他道歉说他前一晚太累了（不是生病），所以就早睡了，没有给我留 js 小作业。其实我忘了他前一天说给我留作业的事了。随后，他和我聊了一个多小时，我问了一些德语问题。他建议我多听收音机，建立语感。我说我没有收音机，只有播客。他说他还是倾向于收音机，就放着，当背景。他前妻就是那样学的，多听，看电视什么的，然后开始说。我当时想着，播客+音乐播放器，不就有收音机的功能了吗，他为什么一直强调收音机？但是我没说出来。有时候我犯错的时候，他说看到我犯这样的错，又想起了他前妻。当然，不是因为我长得像她，只是因为大家入门都犯这样的错。我当时觉得挺不舒服的，因为我觉得他一直提起他前妻，感觉特别怪。再加上前一天问我发型的时，感觉就更怪了。</p><p>而且这个大哥老是说我有些发音不好，但是我觉得我发音很好。他还说每个地方的德国人口音都不一样，他在南部就怎样；说不知道你在哪里，那里的人是什么口音。当时我觉得他很想知道我在哪里，但是我觉得不想让他知道，所以我就没接这个话题。</p><p>他还和我说了一下他想给我找实习，可以带薪学习，虽然钱不多，但是可以学到知识和争取多点时间。但是他目前没找到合适的，所以想在未来两个月内带我完成 A2。他也可以给我写介绍信，说我们 mentor 期间学了什么，但是他也不确定有多大作用。他十来年前就是参加了这个培训，然后找到工作的。现在也会在一些机构里教人编程。我终于反应过来他说的是 ausbildung（双元制培训），就告诉他这个要求 25 岁以下，我已经超龄了。他说，哎呀，你看着好年轻啊，你该不会比我大吧？我：有可能呀。他说我 35 岁。我说那我比你小一些。他说他有个朋友 30 岁了还是去参加了这个培训，我就没再接话了。结束前他说他明天有空，于是又约了一个半小时 session。</p><p>其实我觉得和他聊也挺累的，而且有用信息并不是很多。但是想着人家那么热心，我就当学习吧。就算没学到德语和编程，就当练练英语口语，毕竟我口语太差了。</p><p>第三天还是约的五点，是他自己说他那天有空，定的时间。但是到了那天五点，他没出现，也没邮件通知我（我不确定他是否有我的邮箱）。于是我登录了那个导师网站，最搞笑的是，网站显示他五点零五分才离开的。</p><p>我也懒得问他为什么不出现，为什么不留意，反正我觉得连着和他聊天也很累。也没有很想问的问题，我还查了一下我昨天出现的错误，知道了正确的答案。通过后台，我才发现原来前一天聊完之后，他给我布置了 JS 小作业，但是邮箱和 Github 没提醒我有消息，所以我那天才看到。如果他和我面谈，我应该也不会打开网页后台，也就看不到那个小作业。但老实说，我没懂那个作业是什么。</p><p>那天晚上十点多还是十一点多，我收到邮件通知，他在后台私信我了。但是私信只能登陆网站才能看到，还会显示你最后在线时间。我并不想直面他，就没打开网站。第二天早上，我打开后台，看到他昨晚八点多给我信息说他太抑郁所以不能起床。说可以 discord 聊，他经常在那。我们可以另外约个时间。</p><p>我就感觉，如果他真是抑郁到起不来，这行动力和精神头都太强了。他的预约网页，每天早上六点多开始有几个位置，下午三四点开始有几个位置，每天不间断。这是我见过开发最多预约的导师了。也不知道他是在逼自己还是啥。但是真抑郁逼最近也没用啊。但是我当时还是给他留言说第二天下午五点有空。</p><p>之后我还是觉得很不对劲，就和朋友说了这件事。她说换以前，她也会再给这个人一次机会。但是从她职场经验看，没有任何人会无缘无故对另一个人这么好。她很担心他会不会是杀人犯。就算我有再多佐证，但是依然觉得奇怪，所以要相信自己的直觉。他已经鸽我两次了，没必要给同一个人很多次（伤害你的）机会，世界上那么多人，换一个就行了。我：那我已经和他说了什么时候有空了，明天要怎么拒绝他？她：他之前鸽你的借口都很随意，你也随意找一个行了。我：好的。</p><p>“世界上那么多人，换一个就行了。”我感觉，可以用在很多事情上。做到了，烦心事少很多。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;一月学习状态十分差，到了二月觉得再这样下去，找到一份码农工作十分渺茫。想起在看到网友推荐过一个免费找导师的网站，我想着看看能不能找到人指点一下我的学习路径。&lt;/p&gt;
+&lt;p&gt;上面 front-end 的导师不算很多，坐标德国的女性更少，于是我只能开始找男导师。第一个男导师是德</summary>
+      
+    
+    
+    
+    <category term="人" scheme="http://example.com/categories/%E4%BA%BA/"/>
+    
+    
+    <category term="朋友" scheme="http://example.com/tags/%E6%9C%8B%E5%8F%8B/"/>
+    
+    <category term="三观" scheme="http://example.com/tags/%E4%B8%89%E8%A7%82/"/>
+    
+  </entry>
   
   <entry>
     <title>漂亮朋友</title>
@@ -523,36 +550,6 @@
     <category term="闲逛" scheme="http://example.com/tags/%E9%97%B2%E9%80%9B/"/>
     
     <category term="随手拍" scheme="http://example.com/tags/%E9%9A%8F%E6%89%8B%E6%8B%8D/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>秋游——Hamburg</title>
-    <link href="http://example.com/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/"/>
-    <id>http://example.com/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/</id>
-    <published>2023-11-02T20:33:57.000Z</published>
-    <updated>2023-11-02T23:00:47.696Z</updated>
-    
-    <content type="html"><![CDATA[<p></p><p>七月的时候，和网友 Civet 见面，我告诉她我面基过的另一个网友 Y 很喜欢汉堡。C 说你们可以来汉堡找我玩啊，我十月搬家。我问了 Y，她同意了。于是，我们约定九月一过去。</p><p>为什么今天才写游记呢？因为我前几天才在可爱的小恐龙的帮助下，学会在博客发照片！……之前尝试过，大概是因为没有空行，所以图片信息被当作文本读取了……</p><br><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230901_181315.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230901_181315.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230904_135307.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230904_135307.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p>汉堡主要火车站，一个看着挺有历史又挺工业化风格的站。</p><br><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230902_105649.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230902_105649.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p>汉堡市政厅，挺好看的。Y 说，不知道当年搜刮了多少民脂民膏。不少小型旅行团在这里聚合，要不是语言不通（Y 说是西语），我也想蹭解说。</p><br><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230902_110936.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230902_110936.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p>Y 网购了一件优衣库，想在实体店退货，再拿新的快递件。但是店员说网上买的只能网上退，或者在店里按实时售价换别的。她如果想换尺码，得补钱。我们就走了。之所以拍哆啦 A 梦，是因为第一次见。</p><p>在这家优衣库，我问了两个工作人员服务台在哪里。其中一个用手势比划，然后带我去找另一个服务员，前者应该是残障人士。服务台的工作人员只会英语不会德语，想起之前班上有个同学想去星巴克兼职，但是人家要求得会德语。</p><br><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230902_114809.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230902_114809.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230902_114823_1.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230902_114823_1.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230902_115737.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230902_115737.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p>离开优衣库，我们去了一个周末跳蚤市场。衣物服饰基本是二手货，摆在外面的摊档基本是中东人和非洲人。往里走，小部分是本地年轻女性，她们的货品会相对好看很多。有部分商品应该来自义务市场，特别是一些配饰什么的，几欧一根手绳之类。我和 Y 说，我们中国进货来这里摆摊就能赚钱啊。</p><br><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230902_191643.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230902_191643.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p>下午，C 带我们去划船。一块平板，可站可坐着划，我一直记不住名字……我和 Y 都是第一次划，一开始我们都挺紧张的，因为一个不稳就直接掉水里。和小河的水还是挺脏的，而且下午也有点冷。我基本是模仿他人的动作，慢慢自己寻找平衡，所以很快能划一会儿，然后躺下看风景。但是楼间的河面不宽，船也多，所以得躺一会儿就抬头看看方向。</p><p>挺好玩的，就是因为怕手机掉水里，所以没带，没照片。结账的时候小哥人也挺好，我们超过一个小时，他们就按一小时收费，14 欧。之前我在一个超市看到充气的橡皮艇 50 欧，犹豫过要不要买。但是想着自己一个人，对水域不了解，还是算了。但是每次看到别人划船，还是很羡慕的。夏天是真的很适合划船啊。</p><p>晚上 C 就带我们去吃了黎巴嫩菜。老实说，我不是很喜欢。C 和我们说了一下这家店和菜的历史，不过我基本忘了。但是有个服务员特别热情，知道我们是中国人还拿纸笔过来，让我们把他家里人的中国名字写下来，他拿去纹身。当然了，他们都在说德语，所以我全程耳聋。</p><br><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_080839.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_080839.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_081403.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_081403.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_081414.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_081414.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_081732.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_081732.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p>Y 说汉堡每个周日有鱼市，临近闭市的时候，东西都会大甩卖，她之前就花很少钱买了很多水果。于是，我俩就早起地铁转水巴，带着惺忪的睡眼坐车。</p><br><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_082243.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_082243.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p>一开始我不明白这些大叔为什么在玩泡泡，后来发现他们前面有收小费的盒子，基本都是小朋友在玩，然后打赏。</p><br><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_082312.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_082312.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_082718.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_082718.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_083801.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_083801.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_084636.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_084636.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_084750.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_084750.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p>这里卖果蔬的感觉都是土耳其人，德国人不多，主要卖水产类。很多衣服摊档让我一秒回到中国乡下市集，五颜六色，花花绿绿，色彩缤纷。有几个大货车柜在卖水果和零食，他们现场叫喊，现场装货，有点主播带货的意思。不过做这个得看人，有个卖水果的大叔就很放得开，所以周围的人听了也开心。但是上图这个大叔就很放不开，自己比观众更尴尬。大概是零食都不重，他车子也小，所以顾客就自己举着袋子，等老板把零食放进去。现场看着十分像朝圣，等着主的恩赐。</p><p>我们一直闲逛，等到九点多，就很多人开始大甩卖了。我们转了几圈，很多摊位基本是水泄不通。果蔬的力度蛮大，西瓜一欧一个，小纸盒芒果两欧，诸如此类。我们买了草莓，芒果，西瓜，青椒，蘑菇，虾。海鲜打折力度不是很大，而且基本是冰冻海鲜。德国人是坚持不打折的，即使他们原价就比别人高。</p><p>我们在一个亚洲人的摊档前，遇到一对说普通话的夫妇。男的问我超市的三文鱼一般多少钱，我说没记错的话，23.9。他说，哎呀，那这里卖 20 也没便宜多少嘛。我说，好像不打折是 26.9。他说，哎呀，这样才赚了嘛。他老婆应该是没听到我们的谈话，指着他们一大袋收获说：我们买东西都不看价格的。我：微笑。</p><br><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_183945.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_183945.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_183953.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_183953.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_184011.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_184011.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_191959.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_191959.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p><img src="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_192659.jpg" class="lazyload" data-srcset="/2023/11/02/%E7%A7%8B%E6%B8%B8%E2%80%94%E2%80%94Hamburg/IMG_20230903_192659.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p>下午，Y 查了一轮，去附近的海边就两小时，转一次车。想着天黑得晚，我们到了或许可以看日落。于是，切了西瓜我们仨就出发了。</p><p>但是运气不太好，傍晚云有点厚，而且，海面对着东边……大概是周日，也有点冷，沙滩上很少人。远处不知道是酒吧还是什么，开着震天的 DJ。海水很漂亮，有几个人在裸泳。夏天在这里游泳一定很舒服吧。</p><p>这里的海鸥基本也不怕人，很自在。附近有个五星级宾馆，我们想找厕所的时候，遇到两个海边游泳回来的白男。身材挺好，但是一直看着我们，最后说了一句什么话，我和 C 都没反应过来。那个人又说：where r u from?Y 快速回：Japan。我们大笑，顺便问 Y 对方第一句话是什么，Y 说是“纳尼”。我：哎呀，当时我们应该回“巴嘎”啊。Y 说，这些白男总是觉得阳光开朗的都是日本人。她很讨厌各种白男，私下和我吐槽了很多。不过我目前接触的白男很少，所以暂时没什么感觉。</p><p>因为 Y 周一要回去拿资料开会，这趟神奇的旅程就结束啦。还是很感谢 C 的邀请和 Y 的陪伴。</p><p></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;
-&lt;/p&gt;&lt;p&gt;七月的时候，和网友 Civet 见面，我告诉她我面基过的另一个网友 Y 很喜欢汉堡。C 说你们可以来汉堡找我玩啊，我十月搬家。我问了 Y，她同意了。于是，我们约定九月一过去。&lt;/p&gt;
-&lt;p&gt;为什么今天才写游记呢？因为我前几天才在可爱的小恐龙的帮助下，学会在博</summary>
-      
-    
-    
-    
-    <category term="日常" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8/"/>
-    
-    <category term="游玩" scheme="http://example.com/categories/%E6%97%A5%E5%B8%B8/%E6%B8%B8%E7%8E%A9/"/>
-    
-    
-    <category term="秋游" scheme="http://example.com/tags/%E7%A7%8B%E6%B8%B8/"/>
-    
-    <category term="闲逛" scheme="http://example.com/tags/%E9%97%B2%E9%80%9B/"/>
     
   </entry>
   
