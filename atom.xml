@@ -93,9 +93,9 @@
     <category term="陌生人系列" scheme="http://example.com/categories/%E9%99%8C%E7%94%9F%E4%BA%BA%E7%B3%BB%E5%88%97/"/>
     
     
-    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
-    
     <category term="社交" scheme="http://example.com/tags/%E7%A4%BE%E4%BA%A4/"/>
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
