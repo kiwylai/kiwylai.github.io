@@ -3,11 +3,11 @@
   <title>K Store</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://kiwylai.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2024-12-22T17:05:16.554Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://kiwylai.github.io/"/>
+  <updated>2024-12-29T22:14:39.524Z</updated>
+  <id>https://kiwylai.github.io/</id>
   
   <author>
     <name>Kiwy Li</name>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>少女前不进</title>
+    <link href="https://kiwylai.github.io/2024/12/29/%E5%B0%91%E5%A5%B3%E5%89%8D%E4%B8%8D%E8%BF%9B/"/>
+    <id>https://kiwylai.github.io/2024/12/29/%E5%B0%91%E5%A5%B3%E5%89%8D%E4%B8%8D%E8%BF%9B/</id>
+    <published>2024-12-29T21:48:44.000Z</published>
+    <updated>2024-12-29T22:14:39.524Z</updated>
+    
+    <content type="html"><![CDATA[<p>OK，就在我上周自以为廓然开朗，准备大步向前后，本周就直接宕机。连续几天熬大夜，状态低迷。</p><p>我糊里糊涂接了一份不正式的兼职，见了 CTO，领了没有期限的任务：用 react native 写一个小项目出来，熟悉这个语言；把代码提交给 CTO，他看完之后带我走进下一步。</p><p>CTO 没嫌弃我什么都不会，只要我愿意学。他说如果我跟这个项目，是一个很好的机会，十分有利于我日后找工作。我也这么觉得，所以我才没理会这不正式的合作（没有合同和报价）。</p><p>既然接下来了，且我签证临期，我<b>觉得</b>我<b>应该</b>努力学习，快速做完这个项目。事实是，我完全不想做，且在逃避做这件事。我倒不是讨厌这件事本身，我更多是担心签证。因为这件事并不能直接让我得到一份工作，我也不知道我在此之间能为这份兼职做些什么，我能不能把它写到简历上。</p><p>是的，我总会把一件事的结果放大，拉长，变成一种不良模式：如果我不做 xxx，就会得不到 yyy。例如：我今天不学习，我技术就得不到进步，那我就会找不到工作。我从小就这样，焦虑得不行。例如我很小就觉得如果我没有大学学历，我就只能去工厂打工。所以我从小就担心我考不上大学，每次考试都担心自己没有好成绩，从而考不上大学。单元测验不行–知识不巩固，那期末大概率不行；低年级不行–到了高年级肯定更不行；考不上好初中–那就考不上好高中–那就考不上好大学。即使最后是：我初中很一般（镇上唯一中学），高中一般（第二好），大学一般（大部分人认为我考不上）。但我面对新事物、新阶段时，还是这样的心态。</p><p>恐惧驱使我前进，但是更多带来的是焦虑。友友说得对，我应该换个驱动模式，然后更关爱自己：即使我什么都没做，我都是最棒的。</p><p>其实我一直知道这种思维模式有问题，因为它一直让我痛苦。但是眼下到了好好面对并且改善它的时候了，毕竟我想要新生活。改变它，也是新生活的一种。</p><p>虽然近些年来，我一直觉得自己在不停崩塌与重建，但是感觉这大半年，崩塌与重建的是地基。</p><p>好事不怕迟。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;OK，就在我上周自以为廓然开朗，准备大步向前后，本周就直接宕机。连续几天熬大夜，状态低迷。&lt;/p&gt;
+&lt;p&gt;我糊里糊涂接了一份不正式的兼职，见了 CTO，领了没有期限的任务：用 react native 写一个小项目出来，熟悉这个语言；把代码提交给 CTO，他看完之后带我走进</summary>
+      
+    
+    
+    
+    <category term="情绪" scheme="https://kiwylai.github.io/categories/%E6%83%85%E7%BB%AA/"/>
+    
+    
+    <category term="社交" scheme="https://kiwylai.github.io/tags/%E7%A4%BE%E4%BA%A4/"/>
+    
+    <category term="思考" scheme="https://kiwylai.github.io/tags/%E6%80%9D%E8%80%83/"/>
+    
+  </entry>
+  
+  <entry>
     <title>年度聊天心得</title>
-    <link href="http://example.com/2024/12/22/%E5%B9%B4%E5%BA%A6%E8%81%8A%E5%A4%A9%E5%BF%83%E5%BE%97/"/>
-    <id>http://example.com/2024/12/22/%E5%B9%B4%E5%BA%A6%E8%81%8A%E5%A4%A9%E5%BF%83%E5%BE%97/</id>
+    <link href="https://kiwylai.github.io/2024/12/22/%E5%B9%B4%E5%BA%A6%E8%81%8A%E5%A4%A9%E5%BF%83%E5%BE%97/"/>
+    <id>https://kiwylai.github.io/2024/12/22/%E5%B9%B4%E5%BA%A6%E8%81%8A%E5%A4%A9%E5%BF%83%E5%BE%97/</id>
     <published>2024-12-22T15:38:34.000Z</published>
-    <updated>2024-12-22T17:05:16.554Z</updated>
+    <updated>2024-12-29T21:50:21.821Z</updated>
     
     <content type="html"><![CDATA[<p>谢谢友友捧场，说想看我的聊天心得。</p><p>今年是我社交颇为密集的一年，且大部分是线上社交。主要分两类：求找工帮助和闲聊；主要语言是英语和中文。心得是：降低期待，真实做自己，就会有不同的收获。</p><h3 id="找工类"><a class="markdownIt-Anchor" href="#找工类"></a> 找工类</h3><p>（主要平台：ADPList,mentoringclub，长毛象。聊天人数：约 20）</p><p>我是毕业后拖了很长一段时间才开始找工作，一是害怕，二是盲目自信。结果是事态和我想象的完全不一样，我必须得更努力。还有就是，我发觉我容易困在自己的想象里，不了解行情和行业里的人。于是我开始寻求有经验者的帮助。</p><p>初期集中在三月，在 ADP 找了几个背景不一样的高级软件开发师。但是可能我当时的目标还不是很清晰，所以问的问题很浅。加之导师们也只是当作一个任务去完成，所以前期我感觉我并没有收获很多有效信息。见了五个人，一个想卖课，一个行为十分奇怪。详见文章<a href="https://kiwylai.github.io/2024/04/07/%E6%89%BE%E5%AF%BC%E5%B8%88%E4%B9%8B%E8%B7%AF/?keyword=%E5%AF%BC%E5%B8%88">《找导师之路》</a></p><p>七月的时候觉得自己签证所剩无几，得加速行动。于是又开始找导师，且还遇到象友的主动帮助。这次比三月的好很多，起码第一个导师就推着我写简历，第二个鼓励我海投，边投边根据反馈改简历。算是跨出了很大一步。<br>详见文章<a href="https://kiwylai.github.io/2024/07/21/%E6%89%BE%E5%AF%BC%E5%B8%88%E4%B9%8B%E8%B7%AF%EF%BC%88%E4%BA%8C%EF%BC%89/?keyword=%E5%AF%BC%E5%B8%88">《找导师之路（二）》</a></p><p>我还参加过一次 ADP 的线下活动，和很多人尬聊，也问了一些人求职建议。加上坐车几小时，觉得身心疲惫，收获很一般。</p><p>十月的时候，依然没有收到任何面试邀请。我在某导师推荐的平台 meetup 上看到一个活动，主办人是在 ADP 想约但是约不上的人。我报名了那个活动，且在活动前约一周左右，看到活动条例说明，然后看到一个网站。我点进网站，发现一个 slack 群组，只看到科技相关，就顺手加入了。我看到不少人发求职信息，我也发了一条，并且说了签证只剩半年的事情。很快就得到了回复，其中一个是很好的<a href="https://kiwylai.github.io/2024/11/03/D%E5%A7%90/?keyword=%E5%AF%BC%E5%B8%88">D</a>。</p><p>她给了我不少建议，还分享了另一个找导师的平台 mentoringclub，让我多去找人问问。刚好当时我发现我还是很害怕和人英语聊天，特别是非闲聊的情况下。所以我决定学习网页的<a href="https://kiwylai.github.io/2024/10/27/%E7%A4%BE%E4%BA%A4%E6%B5%93%E5%BA%A6/?keyword=%E7%A4%BE%E4%BA%A4%E6%B5%93%E5%BA%A6">暴露疗法</a>：短时间内不停和人聊天，令自己脱敏。</p><p>我在这个平台见了近十人，大部分人都聊天一小时以上，岗位也更丰富些，包括：CEO、CTO、VP、HR 等。一开始我纯粹想问大家的求职意见，后来觉得他们也可能是人脉，或许能帮我内推。当然，最后没有获得内推。但是我感觉收获很大，因为我慢慢开始不紧张了，有时候甚至期待和不同的人聊天，获取不同信息和建议。我也更懂怎么去寻求导师的帮助了：上来先把自己的情况说清楚，然后把自己想获得的帮助说清楚。聊天过程中学会追问，把建议落实到点。最后一点，是推进对方，也是推进自己。因为人容易偷懒，说宽泛的话很简单，但是具体到点就需要用心。而我也容易偷懒，对方说得不细，我有时候也不会一样一样去检查自己做得是否到位。一个例子就是，我这个月才让一个导师帮我过一遍领英页面（之前几乎是空白），把需要改进的地方都找出来，一一做。</p><p>ADP 是一个相对年轻而国际化的平台，我感觉里面的导师虽然多，但是年轻人居多，良莠不齐。mentoringclub 相对老一点，上面的导师从业时间也长点，年龄跨度也大点，他们想问题会更深一点，也更真心一点。大概也是因为我了解的东西多了，目标也清晰了，也不那么害怕自己会被审判了，所以这阶段的聊天让我觉得像在采访。一个我大学感兴趣也尝试过的活动，我感觉我获得的乐趣比之前更多。</p><p>面试前和友人聊天，她们的建议是：噢，既然你问问题时不紧张，那面试时也继续问问题好了，把它变成自己的主场。我面试也真这么做了，随后我发现了谈话中令我专注或者不紧张甚至有点兴奋的点：我对某个话题是自信的（有了解，可以不多），那我问问题或者追问就会很自信。如果我因为紧张而问了自己不了解或者觉得可能是蠢问题的时候，我就会很紧张，事后还会去查证，再回想自己是不是说了蠢话。我觉得查证可以，怀疑自己说蠢话这点就不必了，因为人肯定会说蠢话。</p><p>综上，我感觉和导师们聊天的最大收获是：你真诚，就可以收获很多真诚。我因此改变了对求助一事的不良看法，也放开了自己，减少自我批判。</p><h3 id="聊天类"><a class="markdownIt-Anchor" href="#聊天类"></a> 聊天类</h3><p>（主要平台：安全港、电报群。聊天人数：30+）</p><p><a href="https://kiwylai.github.io/2024/12/01/%E5%AE%89%E5%85%A8%E6%B8%AF/?keyword=%E5%AE%89%E5%85%A8%E6%B8%AF">安全港</a>我之前写过了，虽写得很粗略。目前加入群组超过两个月了，熟悉的面孔变多了，大家也对我有了印象，能聊的东西也变多了。而我也敢开摄像头和大家说一些很沉重的话题了，说的时候情绪也稳定了很多。看到其他人相处/聊天的模式，我也不那么自我审判自己是否抢话、说了别人不喜欢的话了。所以这个群组让我认识各种背景的人之余，还能锻炼我的英语，且还能收获一些情感支持。例如：一起玩游戏就很开心。</p><p>电报群就是蜜儿所在的群，ADHD 友好，大家可以各说各的，还可以一直表达自己想死的念头而不用担心会不会惹人烦。噢，还认识了双拼，换了一种输入法。（我今年用微信特别少，中文聊天主要就是长毛象和这个群。）</p><h3 id="最后"><a class="markdownIt-Anchor" href="#最后"></a> 最后</h3><p>写的时候感觉自己没啥写的，结果还是写了不少，虽然还是像流水账。但这就是我风格啦~</p><p>聊天心得就是：当你对一样未知事物害怕时，那就采用暴露疗法。接触多了，就知道了它的样子，也有了处理经验。它就不是未知（因为我发现我面对未知时最恐惧），而是变成了一件具体的事。接下来就可以遇到问题解决问题，没有问题就享受生活，而不是停留在对未知的恐惧里，畏缩不前。还有就是，多接触不同的人，建立一个更宽泛、维度更大的自我评价系统。世界真的很大呢，不要轻易陷入自我怀疑与恐惧之中。</p><p>春宵苦短，前进吧少女！</p>]]></content>
     
@@ -35,13 +62,19 @@
     
     
     
+    <category term="自我" scheme="https://kiwylai.github.io/categories/%E8%87%AA%E6%88%91/"/>
+    
+    
+    <category term="社交" scheme="https://kiwylai.github.io/tags/%E7%A4%BE%E4%BA%A4/"/>
+    
+    <category term="生活" scheme="https://kiwylai.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
   <entry>
     <title>德国生活记——第一次面试</title>
-    <link href="http://example.com/2024/12/15/%E5%BE%B7%E5%9B%BD%E7%94%9F%E6%B4%BB%E8%AE%B0%E2%80%94%E2%80%94%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%9D%A2%E8%AF%95/"/>
-    <id>http://example.com/2024/12/15/%E5%BE%B7%E5%9B%BD%E7%94%9F%E6%B4%BB%E8%AE%B0%E2%80%94%E2%80%94%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%9D%A2%E8%AF%95/</id>
+    <link href="https://kiwylai.github.io/2024/12/15/%E5%BE%B7%E5%9B%BD%E7%94%9F%E6%B4%BB%E8%AE%B0%E2%80%94%E2%80%94%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%9D%A2%E8%AF%95/"/>
+    <id>https://kiwylai.github.io/2024/12/15/%E5%BE%B7%E5%9B%BD%E7%94%9F%E6%B4%BB%E8%AE%B0%E2%80%94%E2%80%94%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%9D%A2%E8%AF%95/</id>
     <published>2024-12-15T21:46:09.000Z</published>
     <updated>2024-12-15T22:27:20.328Z</updated>
     
@@ -57,19 +90,19 @@
     
     
     
-    <category term="生活记" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0/"/>
+    <category term="生活记" scheme="https://kiwylai.github.io/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0/"/>
     
     
-    <category term="面试" scheme="http://example.com/tags/%E9%9D%A2%E8%AF%95/"/>
+    <category term="面试" scheme="https://kiwylai.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
     
-    <category term="找工作" scheme="http://example.com/tags/%E6%89%BE%E5%B7%A5%E4%BD%9C/"/>
+    <category term="找工作" scheme="https://kiwylai.github.io/tags/%E6%89%BE%E5%B7%A5%E4%BD%9C/"/>
     
   </entry>
   
   <entry>
     <title>情绪源头</title>
-    <link href="http://example.com/2024/12/08/%E6%83%85%E7%BB%AA%E6%BA%90%E5%A4%B4/"/>
-    <id>http://example.com/2024/12/08/%E6%83%85%E7%BB%AA%E6%BA%90%E5%A4%B4/</id>
+    <link href="https://kiwylai.github.io/2024/12/08/%E6%83%85%E7%BB%AA%E6%BA%90%E5%A4%B4/"/>
+    <id>https://kiwylai.github.io/2024/12/08/%E6%83%85%E7%BB%AA%E6%BA%90%E5%A4%B4/</id>
     <published>2024-12-08T21:27:54.000Z</published>
     <updated>2024-12-08T22:28:20.832Z</updated>
     
@@ -84,19 +117,19 @@
     
     
     
-    <category term="情绪" scheme="http://example.com/categories/%E6%83%85%E7%BB%AA/"/>
+    <category term="情绪" scheme="https://kiwylai.github.io/categories/%E6%83%85%E7%BB%AA/"/>
     
     
-    <category term="思考" scheme="http://example.com/tags/%E6%80%9D%E8%80%83/"/>
+    <category term="思考" scheme="https://kiwylai.github.io/tags/%E6%80%9D%E8%80%83/"/>
     
-    <category term="家庭" scheme="http://example.com/tags/%E5%AE%B6%E5%BA%AD/"/>
+    <category term="家庭" scheme="https://kiwylai.github.io/tags/%E5%AE%B6%E5%BA%AD/"/>
     
   </entry>
   
   <entry>
     <title>安全港</title>
-    <link href="http://example.com/2024/12/01/%E5%AE%89%E5%85%A8%E6%B8%AF/"/>
-    <id>http://example.com/2024/12/01/%E5%AE%89%E5%85%A8%E6%B8%AF/</id>
+    <link href="https://kiwylai.github.io/2024/12/01/%E5%AE%89%E5%85%A8%E6%B8%AF/"/>
+    <id>https://kiwylai.github.io/2024/12/01/%E5%AE%89%E5%85%A8%E6%B8%AF/</id>
     <published>2024-12-01T22:00:21.000Z</published>
     <updated>2024-12-08T22:24:06.061Z</updated>
     
@@ -111,23 +144,23 @@
     
     
     
-    <category term="自我" scheme="http://example.com/categories/%E8%87%AA%E6%88%91/"/>
+    <category term="自我" scheme="https://kiwylai.github.io/categories/%E8%87%AA%E6%88%91/"/>
     
     
-    <category term="社交" scheme="http://example.com/tags/%E7%A4%BE%E4%BA%A4/"/>
+    <category term="社交" scheme="https://kiwylai.github.io/tags/%E7%A4%BE%E4%BA%A4/"/>
     
-    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://kiwylai.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
   <entry>
     <title>高高在上</title>
-    <link href="http://example.com/2024/11/24/%E9%AB%98%E9%AB%98%E5%9C%A8%E4%B8%8A/"/>
-    <id>http://example.com/2024/11/24/%E9%AB%98%E9%AB%98%E5%9C%A8%E4%B8%8A/</id>
+    <link href="https://kiwylai.github.io/2024/11/24/%E9%AB%98%E9%AB%98%E5%9C%A8%E4%B8%8A/"/>
+    <id>https://kiwylai.github.io/2024/11/24/%E9%AB%98%E9%AB%98%E5%9C%A8%E4%B8%8A/</id>
     <published>2024-11-24T21:28:13.000Z</published>
     <updated>2024-11-24T21:59:33.069Z</updated>
     
-    <content type="html"><![CDATA[<p>没想到，我这么快又可以写一篇文章了。看了一眼上次遇到的<a href="https://kiwylai.github.io/2024/09/08/%E4%BB%A5%E5%81%8F%E6%A6%82%E5%85%A8/">事</a>，才两个多月。</p><p>起因是：上周五，我通过网友的朋友进了一个电报群，群里都是在德国从事计算机行业的中国人。拉我进去的人说现在好像很少聊工作，主要聊天。我想，有一个渠道算一个吧。立马在群里说了自己的情况，并希望大家帮忙内推或者给点建议。</p><p>第一个人问我有没有简历。我看名字是男的，还有点慌，因为他什么都没说，就问简历。德国最近可以有个男的，在社交平台假扮女性，约女网友看房，然后实施强奸。受害者多名，德国警方发了中/英/德三语公告。</p><p>第二个回答的人应该是女性，说自己写个全栈项目跑起来，然后带着项目去小公司找 CEO，她当年就是那么做的。</p><p>第三个直接私信我，也是让我写全栈项目，部署。我的项目肯定不行，让我去 udemy 买课。fake it till you made it。我很感谢这个建议。她说她背景和我很像，去年刚毕业。但是问我为什么不去找学生工，“拉你进来的那个人也在慕尼黑，也是计算机的，不知道学生工的重要，没让你去找么”。我当然不想好人被误会，立马解释那是网友的朋友，好心拉我进来的。期间她不少问问题的语气都是如此，我又怕自己敏感，所以还是如实回答了。一度觉得我俩很像。</p><p>之后她还让我多跑步，身心健康。我觉得这个人还怪好的咧。所以她那些让我觉得攻击性的语气可以忽略。我还和<a href="https://kiwylai.github.io/2024/11/03/D%E5%A7%90/">D</a>说了她。</p><p>结果我很快被打脸了。第二天晚上，她先给我发了一张截图，说那个人很好。<br><img src="/2024/11/24/%E9%AB%98%E9%AB%98%E5%9C%A8%E4%B8%8A/123.jpg" class="lazyload" data-srcset="/2024/11/24/%E9%AB%98%E9%AB%98%E5%9C%A8%E4%B8%8A/123.jpg" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" alt></p><p>我：我没有小红书，请问这人是做什么工作的呀？</p><p>结果，她：<br>这不是我的事情<br>或许我不应该给你很多信息<br>小红书有很多不同的信息，或许你的信息来源需要增加<br>但这不是我的事情</p><p>我……………………</p><p>这调调，多么熟悉。我以为我最近遇到了几个好人，运气开始好起来了呢。我以为我避开了国男，就会平安呢。更巧的是，从我找学校到找工作，这么高高在上“帮助”我的，都是在德女生。这什么神奇的缘分，所以我得写下来。</p><p>然后说回那张图，我看完完全不知道它在表达什么，总觉得像在做法。它连信息都不是，居然还能用来做信息源？</p><p>BTW,我对小红书没有好感。倒是有它的账号，在拿到签证之后注册的，用来查买机票攻略和租房信息。但是我看了几轮，完全没有，就卸载了。我为什么对它没有好感？因为它信息太杂，需要花太多时间甄别，它不值得。</p><p>要学会甄别信息这一点，我还是前几年和闾丘露薇学的。</p><p>在这个信息爆炸的年代，获取信息是多么容易，只是获取有效信息很难。时间是一种宝贵的资源，我不想浪费在小红书上。它，不值得。</p>]]></content>
+    <content type="html"><![CDATA[<p>没想到，我这么快又可以写一篇文章了。看了一眼上次遇到的<a href="https://kiwylai.github.io/2024/09/08/%E4%BB%A5%E5%81%8F%E6%A6%82%E5%85%A8/">事</a>，才两个多月。</p><p>起因是：上周五，我通过网友的朋友进了一个电报群，群里都是在德国从事计算机行业的中国人。拉我进去的人说现在好像很少聊工作，主要聊天。我想，有一个渠道算一个吧。立马在群里说了自己的情况，并希望大家帮忙内推或者给点建议。</p><p>第一个人问我有没有简历。我看名字是男的，还有点慌，因为他什么都没说，就问简历。德国最近可以有个男的，在社交平台假扮女性，约女网友看房，然后实施强奸。受害者多名，德国警方发了中/英/德三语公告。</p><p>第二个回答的人应该是女性，说自己写个全栈项目跑起来，然后带着项目去小公司找 CEO，她当年就是那么做的。</p><p>第三个直接私信我，也是让我写全栈项目，部署。我的项目肯定不行，让我去 udemy 买课。fake it till you made it。我很感谢这个建议。她说她背景和我很像，去年刚毕业。但是问我为什么不去找学生工，“拉你进来的那个人也在慕尼黑，也是计算机的，不知道学生工的重要，没让你去找么”。我当然不想好人被误会，立马解释那是网友的朋友，好心拉我进来的。期间她不少问问题的语气都是如此，我又怕自己敏感，所以还是如实回答了。一度觉得我俩很像。</p><p>之后她还让我多跑步，身心健康。我觉得这个人还怪好的咧。所以她那些让我觉得攻击性的语气可以忽略。我还和<a href="https://kiwylai.github.io/2024/11/03/D%E5%A7%90/">D</a>说了她。</p><p>结果我很快被打脸了。第二天晚上，她先给我发了一张截图，说那个人很好。<br><img src="/2024/11/24/%E9%AB%98%E9%AB%98%E5%9C%A8%E4%B8%8A/123.jpg" alt></p><p>我：我没有小红书，请问这人是做什么工作的呀？</p><p>结果，她：<br>这不是我的事情<br>或许我不应该给你很多信息<br>小红书有很多不同的信息，或许你的信息来源需要增加<br>但这不是我的事情</p><p>我……………………</p><p>这调调，多么熟悉。我以为我最近遇到了几个好人，运气开始好起来了呢。我以为我避开了国男，就会平安呢。更巧的是，从我找学校到找工作，这么高高在上“帮助”我的，都是在德女生。这什么神奇的缘分，所以我得写下来。</p><p>然后说回那张图，我看完完全不知道它在表达什么，总觉得像在做法。它连信息都不是，居然还能用来做信息源？</p><p>BTW,我对小红书没有好感。倒是有它的账号，在拿到签证之后注册的，用来查买机票攻略和租房信息。但是我看了几轮，完全没有，就卸载了。我为什么对它没有好感？因为它信息太杂，需要花太多时间甄别，它不值得。</p><p>要学会甄别信息这一点，我还是前几年和闾丘露薇学的。</p><p>在这个信息爆炸的年代，获取信息是多么容易，只是获取有效信息很难。时间是一种宝贵的资源，我不想浪费在小红书上。它，不值得。</p>]]></content>
     
     
       
@@ -138,19 +171,19 @@
     
     
     
-    <category term="他人" scheme="http://example.com/categories/%E4%BB%96%E4%BA%BA/"/>
+    <category term="他人" scheme="https://kiwylai.github.io/categories/%E4%BB%96%E4%BA%BA/"/>
     
     
-    <category term="思考" scheme="http://example.com/tags/%E6%80%9D%E8%80%83/"/>
+    <category term="思考" scheme="https://kiwylai.github.io/tags/%E6%80%9D%E8%80%83/"/>
     
-    <category term="内省" scheme="http://example.com/tags/%E5%86%85%E7%9C%81/"/>
+    <category term="内省" scheme="https://kiwylai.github.io/tags/%E5%86%85%E7%9C%81/"/>
     
   </entry>
   
   <entry>
     <title>跑路之DIY留学篇</title>
-    <link href="http://example.com/2024/11/17/%E8%B7%91%E8%B7%AF%E4%B9%8BDIY%E7%95%99%E5%AD%A6%E7%AF%87/"/>
-    <id>http://example.com/2024/11/17/%E8%B7%91%E8%B7%AF%E4%B9%8BDIY%E7%95%99%E5%AD%A6%E7%AF%87/</id>
+    <link href="https://kiwylai.github.io/2024/11/17/%E8%B7%91%E8%B7%AF%E4%B9%8BDIY%E7%95%99%E5%AD%A6%E7%AF%87/"/>
+    <id>https://kiwylai.github.io/2024/11/17/%E8%B7%91%E8%B7%AF%E4%B9%8BDIY%E7%95%99%E5%AD%A6%E7%AF%87/</id>
     <published>2024-11-17T16:36:42.000Z</published>
     <updated>2024-11-17T17:52:23.682Z</updated>
     
@@ -166,19 +199,19 @@
     
     
     
-    <category term="跑路" scheme="http://example.com/categories/%E8%B7%91%E8%B7%AF/"/>
+    <category term="跑路" scheme="https://kiwylai.github.io/categories/%E8%B7%91%E8%B7%AF/"/>
     
     
-    <category term="政治" scheme="http://example.com/tags/%E6%94%BF%E6%B2%BB/"/>
+    <category term="政治" scheme="https://kiwylai.github.io/tags/%E6%94%BF%E6%B2%BB/"/>
     
-    <category term="留学" scheme="http://example.com/tags/%E7%95%99%E5%AD%A6/"/>
+    <category term="留学" scheme="https://kiwylai.github.io/tags/%E7%95%99%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>伪素食主义/健康饮食</title>
-    <link href="http://example.com/2024/11/10/%E4%BC%AA%E7%B4%A0%E9%A3%9F%E4%B8%BB%E4%B9%89-%E5%81%A5%E5%BA%B7%E9%A5%AE%E9%A3%9F/"/>
-    <id>http://example.com/2024/11/10/%E4%BC%AA%E7%B4%A0%E9%A3%9F%E4%B8%BB%E4%B9%89-%E5%81%A5%E5%BA%B7%E9%A5%AE%E9%A3%9F/</id>
+    <link href="https://kiwylai.github.io/2024/11/10/%E4%BC%AA%E7%B4%A0%E9%A3%9F%E4%B8%BB%E4%B9%89-%E5%81%A5%E5%BA%B7%E9%A5%AE%E9%A3%9F/"/>
+    <id>https://kiwylai.github.io/2024/11/10/%E4%BC%AA%E7%B4%A0%E9%A3%9F%E4%B8%BB%E4%B9%89-%E5%81%A5%E5%BA%B7%E9%A5%AE%E9%A3%9F/</id>
     <published>2024-11-10T16:36:27.000Z</published>
     <updated>2024-11-10T16:59:25.584Z</updated>
     
@@ -193,19 +226,19 @@
     
     
     
-    <category term="尝试" scheme="http://example.com/categories/%E5%B0%9D%E8%AF%95/"/>
+    <category term="尝试" scheme="https://kiwylai.github.io/categories/%E5%B0%9D%E8%AF%95/"/>
     
     
-    <category term="饮食" scheme="http://example.com/tags/%E9%A5%AE%E9%A3%9F/"/>
+    <category term="饮食" scheme="https://kiwylai.github.io/tags/%E9%A5%AE%E9%A3%9F/"/>
     
-    <category term="挑战" scheme="http://example.com/tags/%E6%8C%91%E6%88%98/"/>
+    <category term="挑战" scheme="https://kiwylai.github.io/tags/%E6%8C%91%E6%88%98/"/>
     
   </entry>
   
   <entry>
     <title>D姐</title>
-    <link href="http://example.com/2024/11/03/D%E5%A7%90/"/>
-    <id>http://example.com/2024/11/03/D%E5%A7%90/</id>
+    <link href="https://kiwylai.github.io/2024/11/03/D%E5%A7%90/"/>
+    <id>https://kiwylai.github.io/2024/11/03/D%E5%A7%90/</id>
     <published>2024-11-03T14:16:29.000Z</published>
     <updated>2024-11-03T14:52:40.848Z</updated>
     
@@ -221,19 +254,19 @@
     
     
     
-    <category term="陌生人系列" scheme="http://example.com/categories/%E9%99%8C%E7%94%9F%E4%BA%BA%E7%B3%BB%E5%88%97/"/>
+    <category term="陌生人系列" scheme="https://kiwylai.github.io/categories/%E9%99%8C%E7%94%9F%E4%BA%BA%E7%B3%BB%E5%88%97/"/>
     
     
-    <category term="社交" scheme="http://example.com/tags/%E7%A4%BE%E4%BA%A4/"/>
+    <category term="社交" scheme="https://kiwylai.github.io/tags/%E7%A4%BE%E4%BA%A4/"/>
     
-    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://kiwylai.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
   <entry>
     <title>社交浓度</title>
-    <link href="http://example.com/2024/10/27/%E7%A4%BE%E4%BA%A4%E6%B5%93%E5%BA%A6/"/>
-    <id>http://example.com/2024/10/27/%E7%A4%BE%E4%BA%A4%E6%B5%93%E5%BA%A6/</id>
+    <link href="https://kiwylai.github.io/2024/10/27/%E7%A4%BE%E4%BA%A4%E6%B5%93%E5%BA%A6/"/>
+    <id>https://kiwylai.github.io/2024/10/27/%E7%A4%BE%E4%BA%A4%E6%B5%93%E5%BA%A6/</id>
     <published>2024-10-27T16:53:45.000Z</published>
     <updated>2024-10-27T17:24:39.714Z</updated>
     
@@ -249,19 +282,19 @@
     
     
     
-    <category term="自我" scheme="http://example.com/categories/%E8%87%AA%E6%88%91/"/>
+    <category term="自我" scheme="https://kiwylai.github.io/categories/%E8%87%AA%E6%88%91/"/>
     
     
-    <category term="社交" scheme="http://example.com/tags/%E7%A4%BE%E4%BA%A4/"/>
+    <category term="社交" scheme="https://kiwylai.github.io/tags/%E7%A4%BE%E4%BA%A4/"/>
     
-    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://kiwylai.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
   <entry>
     <title>子承父业</title>
-    <link href="http://example.com/2024/10/20/%E5%AD%90%E6%89%BF%E7%88%B6%E4%B8%9A/"/>
-    <id>http://example.com/2024/10/20/%E5%AD%90%E6%89%BF%E7%88%B6%E4%B8%9A/</id>
+    <link href="https://kiwylai.github.io/2024/10/20/%E5%AD%90%E6%89%BF%E7%88%B6%E4%B8%9A/"/>
+    <id>https://kiwylai.github.io/2024/10/20/%E5%AD%90%E6%89%BF%E7%88%B6%E4%B8%9A/</id>
     <published>2024-10-20T10:50:51.000Z</published>
     <updated>2024-10-20T11:22:17.889Z</updated>
     
@@ -276,19 +309,19 @@
     
     
     
-    <category term="家庭" scheme="http://example.com/categories/%E5%AE%B6%E5%BA%AD/"/>
+    <category term="家庭" scheme="https://kiwylai.github.io/categories/%E5%AE%B6%E5%BA%AD/"/>
     
     
-    <category term="小镇" scheme="http://example.com/tags/%E5%B0%8F%E9%95%87/"/>
+    <category term="小镇" scheme="https://kiwylai.github.io/tags/%E5%B0%8F%E9%95%87/"/>
     
-    <category term="赌博" scheme="http://example.com/tags/%E8%B5%8C%E5%8D%9A/"/>
+    <category term="赌博" scheme="https://kiwylai.github.io/tags/%E8%B5%8C%E5%8D%9A/"/>
     
   </entry>
   
   <entry>
     <title>邻居一家——妹妹</title>
-    <link href="http://example.com/2024/10/13/%E9%82%BB%E5%B1%85%E4%B8%80%E5%AE%B6%E2%80%94%E2%80%94%E5%A6%B9%E5%A6%B9/"/>
-    <id>http://example.com/2024/10/13/%E9%82%BB%E5%B1%85%E4%B8%80%E5%AE%B6%E2%80%94%E2%80%94%E5%A6%B9%E5%A6%B9/</id>
+    <link href="https://kiwylai.github.io/2024/10/13/%E9%82%BB%E5%B1%85%E4%B8%80%E5%AE%B6%E2%80%94%E2%80%94%E5%A6%B9%E5%A6%B9/"/>
+    <id>https://kiwylai.github.io/2024/10/13/%E9%82%BB%E5%B1%85%E4%B8%80%E5%AE%B6%E2%80%94%E2%80%94%E5%A6%B9%E5%A6%B9/</id>
     <published>2024-10-13T15:40:50.000Z</published>
     <updated>2024-10-20T10:52:35.418Z</updated>
     
@@ -303,19 +336,19 @@
     
     
     
-    <category term="人" scheme="http://example.com/categories/%E4%BA%BA/"/>
+    <category term="人" scheme="https://kiwylai.github.io/categories/%E4%BA%BA/"/>
     
     
-    <category term="小镇" scheme="http://example.com/tags/%E5%B0%8F%E9%95%87/"/>
+    <category term="小镇" scheme="https://kiwylai.github.io/tags/%E5%B0%8F%E9%95%87/"/>
     
-    <category term="陌生人系列" scheme="http://example.com/tags/%E9%99%8C%E7%94%9F%E4%BA%BA%E7%B3%BB%E5%88%97/"/>
+    <category term="陌生人系列" scheme="https://kiwylai.github.io/tags/%E9%99%8C%E7%94%9F%E4%BA%BA%E7%B3%BB%E5%88%97/"/>
     
   </entry>
   
   <entry>
     <title>高三班主任</title>
-    <link href="http://example.com/2024/10/06/%E9%AB%98%E4%B8%89%E7%8F%AD%E4%B8%BB%E4%BB%BB/"/>
-    <id>http://example.com/2024/10/06/%E9%AB%98%E4%B8%89%E7%8F%AD%E4%B8%BB%E4%BB%BB/</id>
+    <link href="https://kiwylai.github.io/2024/10/06/%E9%AB%98%E4%B8%89%E7%8F%AD%E4%B8%BB%E4%BB%BB/"/>
+    <id>https://kiwylai.github.io/2024/10/06/%E9%AB%98%E4%B8%89%E7%8F%AD%E4%B8%BB%E4%BB%BB/</id>
     <published>2024-10-06T11:08:35.000Z</published>
     <updated>2024-10-06T11:50:54.266Z</updated>
     
@@ -330,19 +363,19 @@
     
     
     
-    <category term="老师" scheme="http://example.com/categories/%E8%80%81%E5%B8%88/"/>
+    <category term="老师" scheme="https://kiwylai.github.io/categories/%E8%80%81%E5%B8%88/"/>
     
     
-    <category term="三观" scheme="http://example.com/tags/%E4%B8%89%E8%A7%82/"/>
+    <category term="三观" scheme="https://kiwylai.github.io/tags/%E4%B8%89%E8%A7%82/"/>
     
-    <category term="高三" scheme="http://example.com/tags/%E9%AB%98%E4%B8%89/"/>
+    <category term="高三" scheme="https://kiwylai.github.io/tags/%E9%AB%98%E4%B8%89/"/>
     
   </entry>
   
   <entry>
     <title>读书命</title>
-    <link href="http://example.com/2024/09/29/%E8%AF%BB%E4%B9%A6%E5%91%BD/"/>
-    <id>http://example.com/2024/09/29/%E8%AF%BB%E4%B9%A6%E5%91%BD/</id>
+    <link href="https://kiwylai.github.io/2024/09/29/%E8%AF%BB%E4%B9%A6%E5%91%BD/"/>
+    <id>https://kiwylai.github.io/2024/09/29/%E8%AF%BB%E4%B9%A6%E5%91%BD/</id>
     <published>2024-09-29T20:28:52.000Z</published>
     <updated>2024-09-29T20:41:22.439Z</updated>
     
@@ -356,19 +389,19 @@
     
     
     
-    <category term="人" scheme="http://example.com/categories/%E4%BA%BA/"/>
+    <category term="人" scheme="https://kiwylai.github.io/categories/%E4%BA%BA/"/>
     
     
-    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
+    <category term="日常" scheme="https://kiwylai.github.io/tags/%E6%97%A5%E5%B8%B8/"/>
     
-    <category term="陌生人系列" scheme="http://example.com/tags/%E9%99%8C%E7%94%9F%E4%BA%BA%E7%B3%BB%E5%88%97/"/>
+    <category term="陌生人系列" scheme="https://kiwylai.github.io/tags/%E9%99%8C%E7%94%9F%E4%BA%BA%E7%B3%BB%E5%88%97/"/>
     
   </entry>
   
   <entry>
     <title>0元自学德语——A1/A2</title>
-    <link href="http://example.com/2024/09/22/%E8%87%AA%E5%AD%A6%E5%BE%B7%E8%AF%AD%E2%80%94%E2%80%94A1/"/>
-    <id>http://example.com/2024/09/22/%E8%87%AA%E5%AD%A6%E5%BE%B7%E8%AF%AD%E2%80%94%E2%80%94A1/</id>
+    <link href="https://kiwylai.github.io/2024/09/22/%E8%87%AA%E5%AD%A6%E5%BE%B7%E8%AF%AD%E2%80%94%E2%80%94A1/"/>
+    <id>https://kiwylai.github.io/2024/09/22/%E8%87%AA%E5%AD%A6%E5%BE%B7%E8%AF%AD%E2%80%94%E2%80%94A1/</id>
     <published>2024-09-22T19:38:07.000Z</published>
     <updated>2024-10-01T12:15:36.768Z</updated>
     
@@ -384,19 +417,19 @@
     
     
     
-    <category term="学习" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0/"/>
+    <category term="学习" scheme="https://kiwylai.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="德语" scheme="http://example.com/tags/%E5%BE%B7%E8%AF%AD/"/>
+    <category term="德语" scheme="https://kiwylai.github.io/tags/%E5%BE%B7%E8%AF%AD/"/>
     
-    <category term="自学" scheme="http://example.com/tags/%E8%87%AA%E5%AD%A6/"/>
+    <category term="自学" scheme="https://kiwylai.github.io/tags/%E8%87%AA%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>ADPList见面会</title>
-    <link href="http://example.com/2024/09/15/ADPList%E8%A7%81%E9%9D%A2%E4%BC%9A/"/>
-    <id>http://example.com/2024/09/15/ADPList%E8%A7%81%E9%9D%A2%E4%BC%9A/</id>
+    <link href="https://kiwylai.github.io/2024/09/15/ADPList%E8%A7%81%E9%9D%A2%E4%BC%9A/"/>
+    <id>https://kiwylai.github.io/2024/09/15/ADPList%E8%A7%81%E9%9D%A2%E4%BC%9A/</id>
     <published>2024-09-15T21:15:05.000Z</published>
     <updated>2024-09-15T21:34:28.202Z</updated>
     
@@ -411,19 +444,19 @@
     
     
     
-    <category term="导师" scheme="http://example.com/categories/%E5%AF%BC%E5%B8%88/"/>
+    <category term="导师" scheme="https://kiwylai.github.io/categories/%E5%AF%BC%E5%B8%88/"/>
     
     
-    <category term="人" scheme="http://example.com/tags/%E4%BA%BA/"/>
+    <category term="人" scheme="https://kiwylai.github.io/tags/%E4%BA%BA/"/>
     
-    <category term="ADPList" scheme="http://example.com/tags/ADPList/"/>
+    <category term="ADPList" scheme="https://kiwylai.github.io/tags/ADPList/"/>
     
   </entry>
   
   <entry>
     <title>以偏概全</title>
-    <link href="http://example.com/2024/09/08/%E4%BB%A5%E5%81%8F%E6%A6%82%E5%85%A8/"/>
-    <id>http://example.com/2024/09/08/%E4%BB%A5%E5%81%8F%E6%A6%82%E5%85%A8/</id>
+    <link href="https://kiwylai.github.io/2024/09/08/%E4%BB%A5%E5%81%8F%E6%A6%82%E5%85%A8/"/>
+    <id>https://kiwylai.github.io/2024/09/08/%E4%BB%A5%E5%81%8F%E6%A6%82%E5%85%A8/</id>
     <published>2024-09-08T17:35:13.000Z</published>
     <updated>2024-09-08T17:59:30.757Z</updated>
     
@@ -437,19 +470,19 @@
     
     
     
-    <category term="他人" scheme="http://example.com/categories/%E4%BB%96%E4%BA%BA/"/>
+    <category term="他人" scheme="https://kiwylai.github.io/categories/%E4%BB%96%E4%BA%BA/"/>
     
     
-    <category term="思考" scheme="http://example.com/tags/%E6%80%9D%E8%80%83/"/>
+    <category term="思考" scheme="https://kiwylai.github.io/tags/%E6%80%9D%E8%80%83/"/>
     
-    <category term="内省" scheme="http://example.com/tags/%E5%86%85%E7%9C%81/"/>
+    <category term="内省" scheme="https://kiwylai.github.io/tags/%E5%86%85%E7%9C%81/"/>
     
   </entry>
   
   <entry>
     <title>德国生活记——保险</title>
-    <link href="http://example.com/2024/09/01/%E5%BE%B7%E5%9B%BD%E7%94%9F%E6%B4%BB%E2%80%94%E2%80%94%E4%BF%9D%E9%99%A9/"/>
-    <id>http://example.com/2024/09/01/%E5%BE%B7%E5%9B%BD%E7%94%9F%E6%B4%BB%E2%80%94%E2%80%94%E4%BF%9D%E9%99%A9/</id>
+    <link href="https://kiwylai.github.io/2024/09/01/%E5%BE%B7%E5%9B%BD%E7%94%9F%E6%B4%BB%E2%80%94%E2%80%94%E4%BF%9D%E9%99%A9/"/>
+    <id>https://kiwylai.github.io/2024/09/01/%E5%BE%B7%E5%9B%BD%E7%94%9F%E6%B4%BB%E2%80%94%E2%80%94%E4%BF%9D%E9%99%A9/</id>
     <published>2024-09-01T18:17:10.000Z</published>
     <updated>2024-09-01T18:51:27.052Z</updated>
     
@@ -463,19 +496,19 @@
     
     
     
-    <category term="生活记" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0/"/>
+    <category term="生活记" scheme="https://kiwylai.github.io/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0/"/>
     
     
-    <category term="德国生活" scheme="http://example.com/tags/%E5%BE%B7%E5%9B%BD%E7%94%9F%E6%B4%BB/"/>
+    <category term="德国生活" scheme="https://kiwylai.github.io/tags/%E5%BE%B7%E5%9B%BD%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="保险" scheme="http://example.com/tags/%E4%BF%9D%E9%99%A9/"/>
+    <category term="保险" scheme="https://kiwylai.github.io/tags/%E4%BF%9D%E9%99%A9/"/>
     
   </entry>
   
   <entry>
     <title>灵肉分离</title>
-    <link href="http://example.com/2024/08/25/%E7%81%B5%E8%82%89%E5%88%86%E7%A6%BB/"/>
-    <id>http://example.com/2024/08/25/%E7%81%B5%E8%82%89%E5%88%86%E7%A6%BB/</id>
+    <link href="https://kiwylai.github.io/2024/08/25/%E7%81%B5%E8%82%89%E5%88%86%E7%A6%BB/"/>
+    <id>https://kiwylai.github.io/2024/08/25/%E7%81%B5%E8%82%89%E5%88%86%E7%A6%BB/</id>
     <published>2024-08-25T19:42:19.000Z</published>
     <updated>2024-08-25T20:26:16.196Z</updated>
     
@@ -491,19 +524,19 @@
     
     
     
-    <category term="自我" scheme="http://example.com/categories/%E8%87%AA%E6%88%91/"/>
+    <category term="自我" scheme="https://kiwylai.github.io/categories/%E8%87%AA%E6%88%91/"/>
     
     
-    <category term="思考" scheme="http://example.com/tags/%E6%80%9D%E8%80%83/"/>
+    <category term="思考" scheme="https://kiwylai.github.io/tags/%E6%80%9D%E8%80%83/"/>
     
-    <category term="内省" scheme="http://example.com/tags/%E5%86%85%E7%9C%81/"/>
+    <category term="内省" scheme="https://kiwylai.github.io/tags/%E5%86%85%E7%9C%81/"/>
     
   </entry>
   
   <entry>
     <title>德国生活记——德语学习小组</title>
-    <link href="http://example.com/2024/08/18/%E6%84%8F%E5%A4%96%E4%B9%8B%E5%96%9C%E2%80%94%E2%80%94%E5%BE%B7%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84/"/>
-    <id>http://example.com/2024/08/18/%E6%84%8F%E5%A4%96%E4%B9%8B%E5%96%9C%E2%80%94%E2%80%94%E5%BE%B7%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84/</id>
+    <link href="https://kiwylai.github.io/2024/08/18/%E6%84%8F%E5%A4%96%E4%B9%8B%E5%96%9C%E2%80%94%E2%80%94%E5%BE%B7%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84/"/>
+    <id>https://kiwylai.github.io/2024/08/18/%E6%84%8F%E5%A4%96%E4%B9%8B%E5%96%9C%E2%80%94%E2%80%94%E5%BE%B7%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84/</id>
     <published>2024-08-18T20:21:48.000Z</published>
     <updated>2024-08-18T20:38:54.720Z</updated>
     
@@ -517,38 +550,12 @@
     
     
     
-    <category term="生活记" scheme="http://example.com/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0/"/>
+    <category term="生活记" scheme="https://kiwylai.github.io/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0/"/>
     
     
-    <category term="德国生活" scheme="http://example.com/tags/%E5%BE%B7%E5%9B%BD%E7%94%9F%E6%B4%BB/"/>
+    <category term="德国生活" scheme="https://kiwylai.github.io/tags/%E5%BE%B7%E5%9B%BD%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="学习" scheme="http://example.com/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>观影--男朋友</title>
-    <link href="http://example.com/2024/08/11/%E8%A7%82%E5%BD%B1-%E7%94%B7%E6%9C%8B%E5%8F%8B/"/>
-    <id>http://example.com/2024/08/11/%E8%A7%82%E5%BD%B1-%E7%94%B7%E6%9C%8B%E5%8F%8B/</id>
-    <published>2024-08-11T16:32:13.000Z</published>
-    <updated>2024-08-11T17:01:21.702Z</updated>
-    
-    <content type="html"><![CDATA[<p>上周看了 Netflix 的日综——《the boyfriend》，算是我看的第一个男同综艺。但是中文译名过于文艺与失真了：夏日咖啡男友。综艺拍摄的时间应该是冬天，因为大家穿挺厚，北脸的羽绒都有。他们有辆流动咖啡车，到处卖咖啡。但是片子里没说这部分收入怎么处理，一开始还把他们的日常费用限制得死死的，虎头蛇尾。</p><p>一开始是六七个人住在一栋海边公寓约一个月的时间，但是因为很多人有工作，所以只有 2 个最年轻的人一直呆在公寓里。最开始的 8 个人，五个日本的，一个台湾人，一个韩国人，一个巴西人。</p><p>巴西人很热情，像随时要发情的泰迪。很爱短 T、穿低腰裤，但是看着橡皮筋已经坏掉，裤子随时要掉下来一样。上衣也不会好好穿啦，反正是随时要露肉那种。然而我并不想看到他的肉。太猥琐了，让人饭胃的那种。</p><p>韩国人挺好的，长相可以，工作能力挺强，也关注社会，有自己的想法，情绪也蛮稳定。但是不知道是他太忙还是，没人对他心动。据说节目会根据嘉宾人气剪辑，所以他后面就像消失了一样。</p><p>里面有对大热情侣，所以镜头特别多。两人都是 23 岁，但是其中一个长得像 43+。他还蛮爽朗的，有话就说，不太日本人。另一个长得算可以，但是很爱甩脸。前一秒和人约会还很甜蜜，下一秒就忽然甩开人，不说话。很多人觉得他们很甜，我倒觉得很可怕。我很讨厌那些忽然甩脸然后你怎么问都不说话的人。我看豆瓣小组，大部分都觉得他俩很甜，小部分觉得甩脸的那个性格不行，严重的觉得他应该看精神科。有人觉得他在 pua，有人觉得他在 dom。然后磕他们的就去骂那些不看好这对的人。内娱女粉，so interesting。所以我总觉得观察女粉比观察节目嘉宾更有趣：综艺可能是假的，但是女粉是真的。</p><p>还有个嘉宾是 gogoboy，一个业界有名的脱衣舞者。他 36 岁了，但是在节目里上演了一番纯情爱恋。喜欢一个嘉宾，但是一直不敢表露自己的内心。因为忙于工作，中途离开节目前“终于学会了表达自己”，感动众人。哇，好假。</p><p>想起多年前，刘雯和崔始源参加一个恋综，都说自己没谈过恋爱，所以在节目里很羞涩。虽然我当时也年轻，易信，但我还是怀疑他们的真实性。</p><p>虽然是奈飞出品，但是剪辑我感觉还是有点乱的。然后大概嘉宾基本是东亚人，所以还是打了一下亲情牌。让我记忆最深刻的是国小哥泰宪。晚上聊天，他问大家出柜没有。很多人说出了，还说了自己父母的反应。他说他 10 岁父母离婚，他跟着奶奶长大，然后本硕分别是美英读的。他说和父母接触很少，可能在父母心里他还是那个 10 岁的小孩。他很纠结和父母出柜的问题，怕时机不对，父母不接受。</p><p>我？？？？大佬，你 35 岁了，有自己的稳定工作了，父母就像不存在一样，所以他们的认同真的那么重要吗？就，你可以在意，但是没必要让这件事成为你的负担吧。家庭观念不要太强。</p><p>我年纪大了，很警惕那些想让我感动的内容。一般来说，他们都是不怀好意，而且没有真心。</p><p>总体来说，我觉得这个节目很一般。但是据说他在海外很火，然后在中国也挺火，刚播完没多久，大热 cp 就要来中国开见面会了。</p><p>啊，女粉的钱真是好赚。</p><p>啊，她们怎么那么有钱？</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;上周看了 Netflix 的日综——《the boyfriend》，算是我看的第一个男同综艺。但是中文译名过于文艺与失真了：夏日咖啡男友。综艺拍摄的时间应该是冬天，因为大家穿挺厚，北脸的羽绒都有。他们有辆流动咖啡车，到处卖咖啡。但是片子里没说这部分收入怎么处理，一开始还把他</summary>
-      
-    
-    
-    
-    <category term="文化" scheme="http://example.com/categories/%E6%96%87%E5%8C%96/"/>
-    
-    
-    <category term="观影" scheme="http://example.com/tags/%E8%A7%82%E5%BD%B1/"/>
-    
-    <category term="杂谈" scheme="http://example.com/tags/%E6%9D%82%E8%B0%88/"/>
+    <category term="学习" scheme="https://kiwylai.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
