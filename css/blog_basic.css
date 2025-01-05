@@ -306,7 +306,7 @@ p,
 ul,
 ol,
 dl {
-  margin: 2em 0em 2em 0em;
+  margin: 1em 0;
 }
 
 ol ol,
@@ -324,7 +324,7 @@ blockquote p,
 .content blockquote p,
 .post blockquote p,
 .post li p {
-  margin: 2em 0em;
+  margin: 0;
   overflow: visible;
 }
 
