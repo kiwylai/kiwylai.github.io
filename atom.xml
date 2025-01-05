@@ -6,7 +6,7 @@
   <link href="https://kiwylai.github.io/atom.xml" rel="self"/>
   
   <link href="https://kiwylai.github.io/"/>
-  <updated>2025-01-01T18:57:52.571Z</updated>
+  <updated>2025-01-05T21:30:27.910Z</updated>
   <id>https://kiwylai.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新装（此博客的换主题过程）</title>
+    <link href="https://kiwylai.github.io/2025/01/05/%E6%96%B0%E8%A3%85%EF%BC%88%E6%AD%A4%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%8D%A2%E4%B8%BB%E9%A2%98%E8%BF%87%E7%A8%8B%EF%BC%89/"/>
+    <id>https://kiwylai.github.io/2025/01/05/%E6%96%B0%E8%A3%85%EF%BC%88%E6%AD%A4%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%8D%A2%E4%B8%BB%E9%A2%98%E8%BF%87%E7%A8%8B%EF%BC%89/</id>
+    <published>2025-01-05T20:59:10.000Z</published>
+    <updated>2025-01-05T21:30:27.910Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;为什么换主题？&lt;/p&gt;
+&lt;p&gt;因为 giscus 评论一直有问题，我不懂哪里有问题，问了 ai、花了几个小时还是没改好。上周刚更新博客，结果整个页面就空白了。把报错扔给</summary>
+        
+      
+    
+    
+    
+    <category term="tech" scheme="https://kiwylai.github.io/categories/tech/"/>
+    
+    
+    <category term="博客" scheme="https://kiwylai.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="tech" scheme="https://kiwylai.github.io/tags/tech/"/>
+    
+  </entry>
   
   <entry>
     <title>少女前不进</title>
@@ -134,7 +162,7 @@
     <link href="https://kiwylai.github.io/2024/12/01/%E5%AE%89%E5%85%A8%E6%B8%AF/"/>
     <id>https://kiwylai.github.io/2024/12/01/%E5%AE%89%E5%85%A8%E6%B8%AF/</id>
     <published>2024-12-01T22:00:21.000Z</published>
-    <updated>2024-12-08T22:24:06.061Z</updated>
+    <updated>2025-01-05T21:23:26.080Z</updated>
     
     
       
@@ -544,33 +572,6 @@
     <category term="思考" scheme="https://kiwylai.github.io/tags/%E6%80%9D%E8%80%83/"/>
     
     <category term="内省" scheme="https://kiwylai.github.io/tags/%E5%86%85%E7%9C%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>德国生活记——德语学习小组</title>
-    <link href="https://kiwylai.github.io/2024/08/18/%E6%84%8F%E5%A4%96%E4%B9%8B%E5%96%9C%E2%80%94%E2%80%94%E5%BE%B7%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84/"/>
-    <id>https://kiwylai.github.io/2024/08/18/%E6%84%8F%E5%A4%96%E4%B9%8B%E5%96%9C%E2%80%94%E2%80%94%E5%BE%B7%E8%AF%AD%E5%AD%A6%E4%B9%A0%E5%B0%8F%E7%BB%84/</id>
-    <published>2024-08-18T20:21:48.000Z</published>
-    <updated>2024-08-18T20:38:54.720Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;周五晚上七点钟的时候，在公寓大群里看到有人说和朋友学习德语，A2，有兴趣的人可以免费加入他们。我以为是女的，就马上联系问还能不能加入。对方七点半回我说可以，他们正在学，下次和马上来都可以。我虽然还饿着肚子，但是想着还是学了再说吧，毕竟我很久没学德语了，下次也不知道什么时候。</summary>
-        
-      
-    
-    
-    
-    <category term="生活记" scheme="https://kiwylai.github.io/categories/%E7%94%9F%E6%B4%BB%E8%AE%B0/"/>
-    
-    
-    <category term="德国生活" scheme="https://kiwylai.github.io/tags/%E5%BE%B7%E5%9B%BD%E7%94%9F%E6%B4%BB/"/>
-    
-    <category term="学习" scheme="https://kiwylai.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
