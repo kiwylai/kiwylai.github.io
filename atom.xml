@@ -6,7 +6,7 @@
   <link href="https://kiwylai.github.io/atom.xml" rel="self"/>
   
   <link href="https://kiwylai.github.io/"/>
-  <updated>2025-01-26T20:49:58.990Z</updated>
+  <updated>2025-02-02T20:03:04.447Z</updated>
   <id>https://kiwylai.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>无薪自由职业者</title>
+    <link href="https://kiwylai.github.io/2025/02/02/%E6%97%A0%E8%96%AA%E8%87%AA%E7%94%B1%E8%81%8C%E4%B8%9A%E8%80%85/"/>
+    <id>https://kiwylai.github.io/2025/02/02/%E6%97%A0%E8%96%AA%E8%87%AA%E7%94%B1%E8%81%8C%E4%B8%9A%E8%80%85/</id>
+    <published>2025-02-02T19:37:20.000Z</published>
+    <updated>2025-02-02T20:03:04.447Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;24 年 12 月和几个找工互助的友友开始合作开发，把队员阿清的想法落地，争取投放市场。&lt;/p&gt;
+&lt;p&gt;一开始，我们每周开一次会总结本周找工进程和项目，但不会记录在本子或者系统的文件上。上周我说我打算快点完成前端的粗糙模板，然后加到简历里。现在我们用 scrum</summary>
+        
+      
+    
+    
+    
+    <category term="自我" scheme="https://kiwylai.github.io/categories/%E8%87%AA%E6%88%91/"/>
+    
+    
+    <category term="内省" scheme="https://kiwylai.github.io/tags/%E5%86%85%E7%9C%81/"/>
+    
+    <category term="职业" scheme="https://kiwylai.github.io/tags/%E8%81%8C%E4%B8%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>强风吹拂</title>
@@ -544,33 +572,6 @@
     <category term="德语" scheme="https://kiwylai.github.io/tags/%E5%BE%B7%E8%AF%AD/"/>
     
     <category term="自学" scheme="https://kiwylai.github.io/tags/%E8%87%AA%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ADPList见面会</title>
-    <link href="https://kiwylai.github.io/2024/09/15/ADPList%E8%A7%81%E9%9D%A2%E4%BC%9A/"/>
-    <id>https://kiwylai.github.io/2024/09/15/ADPList%E8%A7%81%E9%9D%A2%E4%BC%9A/</id>
-    <published>2024-09-15T21:15:05.000Z</published>
-    <updated>2024-09-15T21:34:28.202Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;为了找工作，13 号去柏林参加了 ADPList</summary>
-        
-      
-    
-    
-    
-    <category term="导师" scheme="https://kiwylai.github.io/categories/%E5%AF%BC%E5%B8%88/"/>
-    
-    
-    <category term="人" scheme="https://kiwylai.github.io/tags/%E4%BA%BA/"/>
-    
-    <category term="ADPList" scheme="https://kiwylai.github.io/tags/ADPList/"/>
     
   </entry>
   
