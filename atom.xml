@@ -6,7 +6,7 @@
   <link href="https://kiwylai.github.io/atom.xml" rel="self"/>
   
   <link href="https://kiwylai.github.io/"/>
-  <updated>2025-03-30T19:28:06.839Z</updated>
+  <updated>2025-04-06T20:25:09.978Z</updated>
   <id>https://kiwylai.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Coding Dojo</title>
+    <link href="https://kiwylai.github.io/2025/04/06/Coding-Dojo/"/>
+    <id>https://kiwylai.github.io/2025/04/06/Coding-Dojo/</id>
+    <published>2025-04-06T19:48:10.000Z</published>
+    <updated>2025-04-06T20:25:09.978Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;上周和 Lorenz 见面的时候，他迟到了。最后说起我找工和签证的事，他问我会不会 TDD，我说不会。他说他正好也没工作，也想复习一下技能，就和我一起 pair programming 吧。&lt;/p&gt;
+&lt;p&gt;周五是第一次课，他说他会 Python， Java 和</summary>
+        
+      
+    
+    
+    
+    <category term="学习" scheme="https://kiwylai.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="导师" scheme="https://kiwylai.github.io/tags/%E5%AF%BC%E5%B8%88/"/>
+    
+    <category term="编程" scheme="https://kiwylai.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
   
   <entry>
     <title>柳暗花半明</title>
@@ -543,35 +571,6 @@
     <category term="思考" scheme="https://kiwylai.github.io/tags/%E6%80%9D%E8%80%83/"/>
     
     <category term="内省" scheme="https://kiwylai.github.io/tags/%E5%86%85%E7%9C%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>跑路之DIY留学篇</title>
-    <link href="https://kiwylai.github.io/2024/11/17/%E8%B7%91%E8%B7%AF%E4%B9%8BDIY%E7%95%99%E5%AD%A6%E7%AF%87/"/>
-    <id>https://kiwylai.github.io/2024/11/17/%E8%B7%91%E8%B7%AF%E4%B9%8BDIY%E7%95%99%E5%AD%A6%E7%AF%87/</id>
-    <published>2024-11-17T16:36:42.000Z</published>
-    <updated>2024-11-17T17:52:23.682Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;想把自己留学的事情写下来很久了，可又想找到工作再写，这样才算是完整的路，也更有说服力。&lt;br&gt;
-但是最近想了想，这段路很长，我可以分段记录。而且，并不是只有找到工作才有说服力，每一段都是我走过的路；我也没必要去说服谁，我把自己的生活过好就行。&lt;/p&gt;
-&lt;h3</summary>
-        
-      
-    
-    
-    
-    <category term="跑路" scheme="https://kiwylai.github.io/categories/%E8%B7%91%E8%B7%AF/"/>
-    
-    
-    <category term="政治" scheme="https://kiwylai.github.io/tags/%E6%94%BF%E6%B2%BB/"/>
-    
-    <category term="留学" scheme="https://kiwylai.github.io/tags/%E7%95%99%E5%AD%A6/"/>
     
   </entry>
   
