@@ -6,7 +6,7 @@
   <link href="https://kiwylai.github.io/atom.xml" rel="self"/>
   
   <link href="https://kiwylai.github.io/"/>
-  <updated>2025-05-11T19:53:22.588Z</updated>
+  <updated>2025-05-18T18:28:47.644Z</updated>
   <id>https://kiwylai.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>无毒（关系）一身轻</title>
+    <link href="https://kiwylai.github.io/2025/05/18/%E6%97%A0%E6%AF%92%EF%BC%88%E5%85%B3%E7%B3%BB%EF%BC%89%E4%B8%80%E8%BA%AB%E8%BD%BB/"/>
+    <id>https://kiwylai.github.io/2025/05/18/%E6%97%A0%E6%AF%92%EF%BC%88%E5%85%B3%E7%B3%BB%EF%BC%89%E4%B8%80%E8%BA%AB%E8%BD%BB/</id>
+    <published>2025-05-18T17:53:10.000Z</published>
+    <updated>2025-05-18T18:28:47.644Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;周虽然连续三天没睡好，且一直处于高度焦虑当中，是周末还是忽然觉得一身轻松。我知道这种感觉从何而来：彻底放下了两段有毒关系。但是为了不引起不必要的误会，在此不详说。&lt;/p&gt;
+&lt;p&gt;之所以用“放下”而不是斩断，是因为还有一些犹豫与思量：怕自己一下子做得太绝，会得到报复后者彻底断</summary>
+        
+      
+    
+    
+    
+    <category term="自我" scheme="https://kiwylai.github.io/categories/%E8%87%AA%E6%88%91/"/>
+    
+    
+    <category term="思考" scheme="https://kiwylai.github.io/tags/%E6%80%9D%E8%80%83/"/>
+    
+    <category term="内省" scheme="https://kiwylai.github.io/tags/%E5%86%85%E7%9C%81/"/>
+    
+  </entry>
   
   <entry>
     <title>德国生活记——劳动局谈话</title>
@@ -541,34 +569,6 @@
     <category term="博客" scheme="https://kiwylai.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
     <category term="tech" scheme="https://kiwylai.github.io/tags/tech/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>少女前不进</title>
-    <link href="https://kiwylai.github.io/2024/12/29/%E5%B0%91%E5%A5%B3%E5%89%8D%E4%B8%8D%E8%BF%9B/"/>
-    <id>https://kiwylai.github.io/2024/12/29/%E5%B0%91%E5%A5%B3%E5%89%8D%E4%B8%8D%E8%BF%9B/</id>
-    <published>2024-12-29T21:48:44.000Z</published>
-    <updated>2025-01-01T18:57:52.571Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;OK，就在我上周自以为豁然开朗，准备大步向前后，本周就直接宕机。连续几天熬大夜，状态低迷。&lt;/p&gt;
-&lt;p&gt;我糊里糊涂接了一份不正式的兼职，见了 CTO，领了没有期限的任务：用 react native 写一个小项目出来，熟悉这个语言；把代码提交给</summary>
-        
-      
-    
-    
-    
-    <category term="情绪" scheme="https://kiwylai.github.io/categories/%E6%83%85%E7%BB%AA/"/>
-    
-    
-    <category term="社交" scheme="https://kiwylai.github.io/tags/%E7%A4%BE%E4%BA%A4/"/>
-    
-    <category term="思考" scheme="https://kiwylai.github.io/tags/%E6%80%9D%E8%80%83/"/>
     
   </entry>
   
