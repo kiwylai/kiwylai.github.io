@@ -6,7 +6,7 @@
   <link href="https://kiwylai.github.io/atom.xml" rel="self"/>
   
   <link href="https://kiwylai.github.io/"/>
-  <updated>2025-05-18T18:28:47.644Z</updated>
+  <updated>2025-05-25T19:59:17.758Z</updated>
   <id>https://kiwylai.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>浮夸</title>
+    <link href="https://kiwylai.github.io/2025/05/25/%E6%B5%AE%E5%A4%B8/"/>
+    <id>https://kiwylai.github.io/2025/05/25/%E6%B5%AE%E5%A4%B8/</id>
+    <published>2025-05-25T19:25:39.000Z</published>
+    <updated>2025-05-25T19:59:17.758Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;没想到还在继续写人际与情绪。&lt;/p&gt;
+&lt;p&gt;我以为我用了封闭式回答多次，对方能读懂我不想与之交流了。结果一周后，她还能继续追问类似的话题，且还是即使她得到了答案也给不了我任何帮助且只会让我反感的问题。太搞笑了。&lt;/p&gt;
+&lt;p&gt;我又想起我爸，他就总是这样。其实完全不在意我，只</summary>
+        
+      
+    
+    
+    
+    <category term="自我" scheme="https://kiwylai.github.io/categories/%E8%87%AA%E6%88%91/"/>
+    
+    
+    <category term="思考" scheme="https://kiwylai.github.io/tags/%E6%80%9D%E8%80%83/"/>
+    
+    <category term="内省" scheme="https://kiwylai.github.io/tags/%E5%86%85%E7%9C%81/"/>
+    
+  </entry>
   
   <entry>
     <title>无毒（关系）一身轻</title>
@@ -541,34 +570,6 @@
     <category term="people" scheme="https://kiwylai.github.io/tags/people/"/>
     
     <category term="陌生人" scheme="https://kiwylai.github.io/tags/%E9%99%8C%E7%94%9F%E4%BA%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>新装（此博客的换主题过程）</title>
-    <link href="https://kiwylai.github.io/2025/01/05/%E6%96%B0%E8%A3%85%EF%BC%88%E6%AD%A4%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%8D%A2%E4%B8%BB%E9%A2%98%E8%BF%87%E7%A8%8B%EF%BC%89/"/>
-    <id>https://kiwylai.github.io/2025/01/05/%E6%96%B0%E8%A3%85%EF%BC%88%E6%AD%A4%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%8D%A2%E4%B8%BB%E9%A2%98%E8%BF%87%E7%A8%8B%EF%BC%89/</id>
-    <published>2025-01-05T20:59:10.000Z</published>
-    <updated>2025-01-05T21:30:27.910Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;为什么换主题？&lt;/p&gt;
-&lt;p&gt;因为 giscus 评论一直有问题，我不懂哪里有问题，问了 ai、花了几个小时还是没改好。上周刚更新博客，结果整个页面就空白了。把报错扔给</summary>
-        
-      
-    
-    
-    
-    <category term="tech" scheme="https://kiwylai.github.io/categories/tech/"/>
-    
-    
-    <category term="博客" scheme="https://kiwylai.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-    <category term="tech" scheme="https://kiwylai.github.io/tags/tech/"/>
     
   </entry>
   
