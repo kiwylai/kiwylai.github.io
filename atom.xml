@@ -6,7 +6,7 @@
   <link href="https://kiwylai.github.io/atom.xml" rel="self"/>
   
   <link href="https://kiwylai.github.io/"/>
-  <updated>2025-08-17T19:35:46.346Z</updated>
+  <updated>2025-08-24T19:45:24.005Z</updated>
   <id>https://kiwylai.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>在焦虑中多走了一步</title>
+    <link href="https://kiwylai.github.io/2025/08/24/%E5%9C%A8%E7%84%A6%E8%99%91%E4%B8%AD%E5%A4%9A%E8%B5%B0%E4%BA%86%E4%B8%80%E6%AD%A5/"/>
+    <id>https://kiwylai.github.io/2025/08/24/%E5%9C%A8%E7%84%A6%E8%99%91%E4%B8%AD%E5%A4%9A%E8%B5%B0%E4%BA%86%E4%B8%80%E6%AD%A5/</id>
+    <published>2025-08-24T19:26:42.000Z</published>
+    <updated>2025-08-24T19:45:24.005Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;这周还是很焦虑，焦虑到熬了几个夜。特别是周一晚上，明知第二天早上七点开始有烟囱检查，但是我熬到三点才睡。之后和L</summary>
+        
+      
+    
+    
+    
+    <category term="健康" scheme="https://kiwylai.github.io/categories/%E5%81%A5%E5%BA%B7/"/>
+    
+    
+    <category term="思考" scheme="https://kiwylai.github.io/tags/%E6%80%9D%E8%80%83/"/>
+    
+    <category term="移民" scheme="https://kiwylai.github.io/tags/%E7%A7%BB%E6%B0%91/"/>
+    
+  </entry>
   
   <entry>
     <title>面对未知，依然焦虑</title>
@@ -547,34 +574,6 @@
     <category term="思考" scheme="https://kiwylai.github.io/tags/%E6%80%9D%E8%80%83/"/>
     
     <category term="内省" scheme="https://kiwylai.github.io/tags/%E5%86%85%E7%9C%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Coding Dojo</title>
-    <link href="https://kiwylai.github.io/2025/04/06/Coding-Dojo/"/>
-    <id>https://kiwylai.github.io/2025/04/06/Coding-Dojo/</id>
-    <published>2025-04-06T19:48:10.000Z</published>
-    <updated>2025-04-06T20:25:09.978Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;上周和 Lorenz 见面的时候，他迟到了。最后说起我找工和签证的事，他问我会不会 TDD，我说不会。他说他正好也没工作，也想复习一下技能，就和我一起 pair programming 吧。&lt;/p&gt;
-&lt;p&gt;周五是第一次课，他说他会 Python， Java 和</summary>
-        
-      
-    
-    
-    
-    <category term="学习" scheme="https://kiwylai.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="导师" scheme="https://kiwylai.github.io/tags/%E5%AF%BC%E5%B8%88/"/>
-    
-    <category term="编程" scheme="https://kiwylai.github.io/tags/%E7%BC%96%E7%A8%8B/"/>
     
   </entry>
   
