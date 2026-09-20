@@ -1,0 +1,75 @@
+---
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('blog');
+  
+  // 提取所有文章中的 Tag（兼容 Tags 与 tags）
+  const allTags = new Set<string>();
+  
+  allPosts.forEach((post) => {
+    const rawTags = post.data.Tags || post.data.tags || [];
+    const tagsArray = Array.isArray(rawTags) ? rawTags : [rawTags];
+    tagsArray.forEach((tag: string) => {
+      if (tag) allTags.add(tag.trim());
+    });
+  });
+
+  // 为每一个标签生成对应的 URL 路径
+  return Array.from(allTags).map((tag) => {
+    const filteredPosts = allPosts.filter((post) => {
+      const rawTags = post.data.Tags || post.data.tags || [];
+      const tagsArray = Array.isArray(rawTags) ? rawTags : [rawTags];
+      return tagsArray.includes(tag);
+    });
+
+    return {
+      params: { tag },
+      props: { posts: filteredPosts },
+    };
+  });
+}
+
+const { tag } = Astro.params;
+const { posts } = Astro.props;
+
+// 日期倒序排序
+const sortedPosts = posts.sort((a, b) => {
+  const dateA = new Date(a.data.date || 0).getTime();
+  const dateB = new Date(b.data.date || 0).getTime();
+  return dateB - dateA;
+});
+---
+
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <title>标签: {tag}</title>
+    <style>
+      body { max-width: 750px; margin: 0 auto; padding: 2rem 1.5rem; font-family: "Georgia", serif; color: #222; }
+      .back-btn { text-decoration: none; color: #0066cc; font-size: 0.9rem; display: inline-block; margin-bottom: 1.5rem; }
+      .back-btn:hover { text-decoration: underline; }
+      h1 { font-size: 1.8rem; font-weight: normal; margin-bottom: 2rem; border-bottom: 1px solid #eee; padding-bottom: 0.5rem; }
+      .post-list { list-style: none; padding: 0; margin: 0; }
+      .post-item { display: flex; justify-content: space-between; align-items: baseline; padding: 12px 0; border-bottom: 1px dashed #eee; }
+      a.post-link { color: #222; text-decoration: none; font-weight: bold; font-size: 1.1rem; }
+      a.post-link:hover { color: #0066cc; }
+      .date { color: #888; font-size: 0.85rem; }
+    </style>
+  </head>
+  <body>
+    <a href="/" class="back-btn">← 返回首页</a>
+    <h1>🏷️ 标签 "#{tag}" 下的文章 ({sortedPosts.length} 篇)</h1>
+
+    <ul class="post-list">
+      {sortedPosts.map((post) => (
+        <li class="post-item">
+          <a href={`/posts/${post.id}`} class="post-link">{post.data.title || post.id}</a>
+          <span class="date">
+            {post.data.date ? new Date(post.data.date).toLocaleDateString('zh-CN') : ''}
+          </span>
+        </li>
+      ))}
+    </ul>
+  </body>
+</html>

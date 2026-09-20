@@ -1,0 +1,109 @@
+---
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('blog');
+const posts = allPosts.sort((a, b) => {
+  const dateA = new Date(a.data.date || 0).getTime();
+  const dateB = new Date(b.data.date || 0).getTime();
+  return dateB - dateA;
+});
+---
+
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <title>我的博客</title>
+    <style>
+      body { max-width: 750px; margin: 0 auto; padding: 2rem 1.5rem; font-family: "Georgia", serif; color: #222; }
+      header { margin-bottom: 2rem; }
+      h1 { font-size: 2rem; font-weight: normal; margin-bottom: 1.5rem; }
+      
+      .search-box { 
+        width: 100%; 
+        padding: 10px 14px; 
+        font-size: 1rem; 
+        border: 1px solid #ccc; 
+        border-radius: 6px; 
+        box-sizing: border-box; 
+        margin-bottom: 1.5rem; 
+      }
+
+      .post-list { list-style: none; padding: 0; margin: 0; }
+      .post-item { padding: 12px 0; border-bottom: 1px dashed #eee; }
+      .post-header { display: flex; justify-content: space-between; align-items: baseline; }
+      .post-title { color: #222; text-decoration: none; font-size: 1.1rem; font-weight: bold; }
+      .post-title:hover { color: #0066cc; }
+      .post-date { color: #888; font-size: 0.85rem; }
+      
+      .tags-container { margin-top: 6px; }
+      .tag-badge { 
+        display: inline-block; 
+        background: #f0f0f0; 
+        color: #555; 
+        font-size: 0.75rem; 
+        padding: 2px 8px; 
+        border-radius: 4px; 
+        margin-right: 6px; 
+        text-decoration: none;
+      }
+      .tag-badge:hover {
+        background: #0066cc;
+        color: #fff;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>🎉 文章列表</h1>
+      <input type="text" id="searchInput" class="search-box" placeholder="🔍 输入关键词或标签搜索文章..." />
+    </header>
+
+    <ul class="post-list" id="postList">
+      {posts.map((post) => {
+        const formattedDate = post.data.date 
+          ? new Date(post.data.date).toLocaleDateString('zh-CN') 
+          : '';
+        
+        const tagsArray = post.data.Tags || post.data.tags || [];
+        const tagsStr = tagsArray.join(' ');
+
+        return (
+          <li class="post-item" data-title={post.data.title || post.id} data-tags={tagsStr}>
+            <div class="post-header">
+              <a href={`/posts/${post.id}`} class="post-title">{post.data.title || post.id}</a>
+              <span class="post-date">{formattedDate}</span>
+            </div>
+            
+            {tagsArray.length > 0 && (
+              <div class="tags-container">
+                {tagsArray.map((tag: string) => (
+                  <a href={`/tags/${tag}`} class="tag-badge">#{tag}</a>
+                ))}
+              </div>
+            )}
+          </li>
+        );
+      })}
+    </ul>
+
+    <script>
+      const searchInput = document.getElementById('searchInput') as HTMLInputElement;
+      const postItems = document.querySelectorAll('.post-item');
+
+      searchInput?.addEventListener('input', (e) => {
+        const query = (e.target as HTMLInputElement).value.toLowerCase().trim();
+        
+        postItems.forEach((item) => {
+          const title = item.getAttribute('data-title')?.toLowerCase() || '';
+          const tags = item.getAttribute('data-tags')?.toLowerCase() || '';
+
+          if (title.includes(query) || tags.includes(query)) {
+            (item as HTMLElement).style.display = 'block';
+          } else {
+            (item as HTMLElement).style.display = 'none';
+          }
+        });
+      });
+    </script>
+  </body>
+</html>

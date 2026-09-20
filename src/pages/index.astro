@@ -1,0 +1,50 @@
+---
+import { getCollection } from 'astro:content';
+
+// 1. 获取所有文章
+const allPosts = await getCollection('blog');
+
+// 2. 按日期倒序排列（最新的文章排在最前面）
+const posts = allPosts.sort((a, b) => {
+  const dateA = new Date(a.data.date || 0).getTime();
+  const dateB = new Date(b.data.date || 0).getTime();
+  return dateB - dateA;
+});
+---
+
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <title>我的博客</title>
+    <style>
+      body { max-width: 800px; margin: 0 auto; padding: 2rem; font-family: sans-serif; }
+      ul { list-style: none; padding: 0; }
+      li { margin-bottom: 1rem; border-bottom: 1px dashed #ccc; padding-bottom: 0.5rem; }
+      a { color: #0066cc; text-decoration: none; font-weight: bold; font-size: 1.1rem; }
+      a:hover { text-decoration: underline; }
+      .date { color: #666; font-size: 0.9rem; margin-left: 0.5rem; }
+    </style>
+  </head>
+  <body>
+    <h1>🎉 我的博客文章列表</h1>
+    <p>文章总数：{posts.length} 篇</p>
+    <hr />
+
+    <ul>
+      {posts.map((post) => {
+        // 格式化日期为 YYYY-MM-DD
+        const formattedDate = post.data.date 
+          ? new Date(post.data.date).toLocaleDateString('zh-CN') 
+          : '未设日期';
+
+        return (
+          <li>
+            <!-- 加 <a> 标签，跳转到 /posts/[id] 详情页 -->
+            <a href={`/posts/${post.id}`}>{post.data.title || post.id}</a>
+            <span class="date">({formattedDate})</span>
+          </li>
+        );
+      })}
+    </ul>
+  </body>
+</html>
