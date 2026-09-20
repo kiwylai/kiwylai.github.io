@@ -49,6 +49,6 @@
     "unist-util-visit": "^5.1.0"
   },
   "devDependencies": {
-    "sass": "^1.83.1"
+    "sass": "^1.104.1"
   }
 }
