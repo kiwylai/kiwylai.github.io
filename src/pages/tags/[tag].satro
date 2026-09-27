@@ -1,0 +1,89 @@
+---
+import { getCollection } from 'astro:content';
+
+// 1. 告诉 Astro 有哪些标签页面需要预先构建渲染
+export async function getStaticPaths() {
+  const allPosts = await getCollection('blog');
+  
+  // 收集所有文章中的所有标签
+  const allTags = new Set<string>();
+  
+  allPosts.forEach((post) => {
+    const rawTags = post.data.Tags || post.data.tags || [];
+    const tagsArray = Array.isArray(rawTags) 
+      ? rawTags 
+      : (typeof rawTags === 'string' ? [rawTags] : []);
+      
+    tagsArray.forEach((tag) => {
+      if (tag) allTags.add(String(tag).trim());
+    });
+  });
+
+  // 为每个标签生成一个路由参数
+  return Array.from(allTags).map((tag) => ({
+    params: { tag },
+    props: {
+      posts: allPosts.filter((post) => {
+        const rawTags = post.data.Tags || post.data.tags || [];
+        const tagsArray = Array.isArray(rawTags) 
+          ? rawTags 
+          : (typeof rawTags === 'string' ? [rawTags] : []);
+        return tagsArray.map(t => String(t).trim()).includes(tag);
+      }),
+    },
+  }));
+}
+
+const { tag } = Astro.params;
+const { posts } = Astro.props;
+
+// 按日期倒序排列该标签下的文章
+const sortedPosts = posts.sort((a, b) => {
+  const dateA = new Date(a.data.date || 0).getTime();
+  const dateB = new Date(b.data.date || 0).getTime();
+  return dateB - dateA;
+});
+---
+
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <title>标签: #{tag}</title>
+    <style>
+      body { max-width: 750px; margin: 0 auto; padding: 2rem 1.5rem; font-family: "Georgia", serif; color: #222; }
+      header { margin-bottom: 2rem; }
+      h1 { font-size: 1.8rem; font-weight: normal; margin-bottom: 1rem; }
+      .back-btn { text-decoration: none; color: #666; font-size: 0.9rem; display: inline-block; margin-bottom: 1.5rem; }
+      .post-list { list-style: none; padding: 0; margin: 0; }
+      .post-item { padding: 12px 0; border-bottom: 1px dashed #eee; }
+      .post-header { display: flex; justify-content: space-between; align-items: baseline; }
+      .post-title { color: #222; text-decoration: none; font-size: 1.1rem; font-weight: bold; }
+      .post-title:hover { color: #0066cc; }
+      .post-date { color: #888; font-size: 0.85rem; }
+    </style>
+  </head>
+  <body>
+    <a href="/" class="back-btn">← 返回首页</a>
+    
+    <header>
+      <h1>🏷️ 标签包含 “#{tag}” 的文章 ({sortedPosts.length})</h1>
+    </header>
+
+    <ul class="post-list">
+      {sortedPosts.map((post) => {
+        const formattedDate = post.data.date 
+          ? new Date(post.data.date).toLocaleDateString('zh-CN') 
+          : '';
+
+        return (
+          <li class="post-item">
+            <div class="post-header">
+              <a href={`/posts/${post.id}`} class="post-title">{post.data.title || post.id}</a>
+              <span class="post-date">{formattedDate}</span>
+            </div>
+          </li>
+        );
+      })}
+    </ul>
+  </body>
+</html>
