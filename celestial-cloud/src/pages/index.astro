@@ -64,7 +64,12 @@ const posts = allPosts.sort((a, b) => {
           ? new Date(post.data.date).toLocaleDateString('zh-CN') 
           : '';
         
-        const tagsArray = post.data.Tags || post.data.tags || [];
+        // 【关键修复】：获取数据后强制校验并转换为数组
+        const rawTags = post.data.Tags || post.data.tags || [];
+        const tagsArray = Array.isArray(rawTags) 
+          ? rawTags 
+          : (typeof rawTags === 'string' ? [rawTags] : []);
+
         const tagsStr = tagsArray.join(' ');
 
         return (

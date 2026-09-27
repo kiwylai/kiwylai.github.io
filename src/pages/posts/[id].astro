@@ -11,7 +11,12 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
-const tagsArray = post.data.Tags || post.data.tags || [];
+
+// 【关键修复】：获取数据后强制校验并转换为数组
+const rawTags = post.data.Tags || post.data.tags || [];
+const tagsArray = Array.isArray(rawTags) 
+  ? rawTags 
+  : (typeof rawTags === 'string' ? [rawTags] : []);
 ---
 
 <html lang="zh-CN">
