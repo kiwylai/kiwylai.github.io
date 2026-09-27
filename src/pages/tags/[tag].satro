@@ -1,12 +1,11 @@
 ---
 import { getCollection } from 'astro:content';
 
-// 1. 告诉 Astro 有哪些标签页面需要预先构建渲染
 export async function getStaticPaths() {
   const allPosts = await getCollection('blog');
   
-  // 收集所有文章中的所有标签
-  const allTags = new Set<string>();
+  // 收集所有文章中的标签
+  const tagMap = new Map<string, any[]>();
   
   allPosts.forEach((post) => {
     const rawTags = post.data.Tags || post.data.tags || [];
@@ -15,29 +14,27 @@ export async function getStaticPaths() {
       : (typeof rawTags === 'string' ? [rawTags] : []);
       
     tagsArray.forEach((tag) => {
-      if (tag) allTags.add(String(tag).trim());
+      if (tag) {
+        const cleanTag = String(tag).trim();
+        if (!tagMap.has(cleanTag)) {
+          tagMap.set(cleanTag, []);
+        }
+        tagMap.get(cleanTag)?.push(post);
+      }
     });
   });
 
-  // 为每个标签生成一个路由参数
-  return Array.from(allTags).map((tag) => ({
-    params: { tag },
-    props: {
-      posts: allPosts.filter((post) => {
-        const rawTags = post.data.Tags || post.data.tags || [];
-        const tagsArray = Array.isArray(rawTags) 
-          ? rawTags 
-          : (typeof rawTags === 'string' ? [rawTags] : []);
-        return tagsArray.map(t => String(t).trim()).includes(tag);
-      }),
-    },
+  // 为每个标签生成对应的静态页面路径
+  return Array.from(tagMap.entries()).map(([tagName, posts]) => ({
+    // encodeURIComponent 确保中文标签（如 游泳）生成正确的 URL 路径
+    params: { tag: encodeURIComponent(tagName) },
+    props: { tagName, posts },
   }));
 }
 
-const { tag } = Astro.params;
-const { posts } = Astro.props;
+const { tagName, posts } = Astro.props;
 
-// 按日期倒序排列该标签下的文章
+// 按日期倒序
 const sortedPosts = posts.sort((a, b) => {
   const dateA = new Date(a.data.date || 0).getTime();
   const dateB = new Date(b.data.date || 0).getTime();
@@ -48,7 +45,7 @@ const sortedPosts = posts.sort((a, b) => {
 <html lang="zh-CN">
   <head>
     <meta charset="utf-8" />
-    <title>标签: #{tag}</title>
+    <title>标签: #{tagName}</title>
     <style>
       body { max-width: 750px; margin: 0 auto; padding: 2rem 1.5rem; font-family: "Georgia", serif; color: #222; }
       header { margin-bottom: 2rem; }
@@ -66,7 +63,7 @@ const sortedPosts = posts.sort((a, b) => {
     <a href="/" class="back-btn">← 返回首页</a>
     
     <header>
-      <h1>🏷️ 标签包含 “#{tag}” 的文章 ({sortedPosts.length})</h1>
+      <h1>🏷️ 标签包含 “#{tagName}” 的文章 ({sortedPosts.length})</h1>
     </header>
 
     <ul class="post-list">
